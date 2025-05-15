@@ -31,10 +31,10 @@ ignoreErrors = ["additional-script-loading-error"] # ignore error of loading add
     noClasses = false
   [markup.goldmark.renderer]
     unsafe = true
-	[markup.tableOfContents]
-		startLevel = 2 # ToC starts from H2
-		endLevel = 4 # ToC ends at H4
-		ordered = false # generates <ul> instead of <ol>
+	# [markup.tableOfContents]
+		# startLevel = 2 # ToC starts from H2
+		# endLevel = 4 # ToC ends at H4
+		# ordered = false # generates <ul> instead of <ol>
 
 # set cache directory (needed for Github Pages)
 [caches]
@@ -65,6 +65,11 @@ ignoreErrors = ["additional-script-loading-error"] # ignore error of loading add
     pageRef="about"
     name = 'About'
     url = '/about/'
+    weight = 30
+  [[Languages.en-us.menu.main]]
+    pageRef="contact"
+    name = 'Contact'
+    url = '/contact/'
     weight = 30
 
 [Languages.en-us.params]

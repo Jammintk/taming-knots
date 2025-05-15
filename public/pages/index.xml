@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Taming Knots</title>
+    <link>/pages/</link>
+    <description>Recent content in Pages on Taming Knots</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>/pages/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/about/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/pages/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/contact/</guid>
+      
+      <description>&lt;p&gt;If you want to reach out for any reason, please use the form below to send me an email.&lt;/p&gt;
+&lt;script data-letterbirduser=&#34;t-k&#34; src=&#34;https://letterbird.co/embed/v1.js&#34;&gt;&lt;/script&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
