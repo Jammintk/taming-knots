@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Taming Knots</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>/posts/</link>
     <description>Recent content in Posts on Taming Knots</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Apr 2024 17:34:06 -0600</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Apr 2024 17:34:06 -0600</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tea, A Crash Course</title>
-      <link>http://localhost:1313/posts/2024-04-13-tea/</link>
+      <link>/posts/2024-04-13-tea/</link>
       <pubDate>Sat, 13 Apr 2024 17:34:06 -0600</pubDate>
       
-      <guid>http://localhost:1313/posts/2024-04-13-tea/</guid>
+      <guid>/posts/2024-04-13-tea/</guid>
       
       <description>&lt;p&gt;Every once in a while, folks I know will reach out to me asking for recommendations for this, that, or the other with regards to tea. While coffee lovers are a dime a dozen, especially in the US, the tea-loving community tends to be much smaller, though I have also found tea lovers to be a lot more interested in sharing their passion, rather than gatekeeping others. In that spirit, I want to put basically all of my tea knowledge down to paper, as it were, in order to share the love that I have for the breadth and depth of what at first appears to be a remarkably simple beverage.&lt;/p&gt;</description>
       
