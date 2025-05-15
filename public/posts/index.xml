@@ -6,22 +6,55 @@
     <description>Recent content in Posts on Taming Knots</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Apr 2025 17:34:06 -0600</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Weeknotes #1</title>
+      <link>/posts/2025-05-10-weeknotes1/</link>
+      <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2025-05-10-weeknotes1/</guid>
+      
+      <description>&lt;p&gt;I want to get into the habit of writing more often. &lt;a href=&#34;https://gilest.org/doingweeknotes/index.html&#34;&gt;Weeknotes&lt;/a&gt; seems like a good way to hone the skill a bit and reflect on prior weeks as I do.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I did an extra day of work this week, my overtime clocked in at around 9 hours for the pay period. My notes are probably going to be really light because of it.&lt;/li&gt;
+&lt;li&gt;I did twelve job applications. I got emails to set up interviews on two of my previous applications from last week or the week before. I also got a call on one, but the pay was too low.&lt;/li&gt;
+&lt;li&gt;My wife and I have continued to plug along in Twin Peaks. We’re almost done with the first season. I’m surprised she’s liking it as much as she is. I hope the remainder of the show doesn’t leave her cold.&lt;/li&gt;
+&lt;li&gt;I wrote two blog posts last week in my “Embracing Open Source” series. These were mostly background. I’m looking forward to the second “part” of the series where I go into detail about my setup and experiences with Linux as a daily driver OS and &lt;a href=&#34;https://hyprland.org/&#34;&gt;Hyprland&lt;/a&gt; as my most recent desktop environment love.&lt;/li&gt;
+&lt;li&gt;I didn’t do much gaming this week. I mostly just came home and slept after work. I did check out the demo for &lt;a href=&#34;https://store.steampowered.com/app/2533600/Bloodthief/&#34;&gt;BloodThief&lt;/a&gt; though and it seems like a really fantastic speed game. It will be interesting to see how much the developer leans in to it. So far it seems like a lot.&lt;/li&gt;
+&lt;li&gt;I’ve been futzing with my RSS reader setup a lot these past few days, trying to find good blogs to subscribe to. Today I got &lt;a href=&#34;https://docs.rsshub.app/&#34;&gt;RSS Hub&lt;/a&gt; set up to compliment my existing &lt;a href=&#34;https://freshrss.org/index.html&#34;&gt;FreshRSS&lt;/a&gt; install. Now, I can use RSS Hub to dig up and generate RSS feeds for more stuff on the internet.&lt;/li&gt;
+&lt;li&gt;Tonight is Chinese food and digging into &lt;a href=&#34;https://store.steampowered.com/app/3567760/Twigs_Adventure_64/&#34;&gt;Twig’s Adventure 64&lt;/a&gt;, a game by a developer I really like that specializes in little collectathon platformers.&lt;/li&gt;
+&lt;/ul&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Embracing Open Source Part 2: Linux</title>
+      <link>/posts/2025-05-02-eos2/</link>
+      <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2025-05-02-eos2/</guid>
+      
+      <description>&lt;center&gt;*This post is a part of my Embracing Open Source series. You can read the last post [here](posts/2025-04-30-EOS1.html), or if you are particularly interested in a related topic or want to get in touch with me about the series, please [send me a message](/pages/contact).*&lt;/center&gt;
+&lt;p&gt;Linux is a tough topic to wade into, but this will be a pretty general overview of my path into using the open source operating system for the last year and change, as well as some general recommendations and best practices to keep in mind when trying to dive in yourself. My recommendations shouldn’t be taken as gospel, and everything I say is up to your interpretation anyway, so if you have a different preference, then that’s great! Part of what makes Linux such a great OS to use is that there’s so many options.&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>Embracing Open Source Part 1: Ideology and Background</title>
       <link>/posts/2025-04-30-eos1/</link>
-      <pubDate>Wed, 30 Apr 2025 17:34:06 -0600</pubDate>
+      <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
       
       <guid>/posts/2025-04-30-eos1/</guid>
       
-      <description>&lt;p&gt;&lt;em&gt;This post is the start of a series I’ve been wanting to write for a long time. I want to chronicle my journey with Linux, Free and Open Source Software, and taking back control over my data and my devices. If there’s a topic you are particularly interested in reading about in a future installment, please feel free to send me a message.&lt;/em&gt;&lt;/p&gt;</description>
+      <description>&lt;center&gt;*This post is the start of a series I’ve been wanting to write for a long time. I want to chronicle my journey with Linux, Free and Open Source Software, and taking back control over my data and my devices. If there’s a topic you are particularly interested in reading about in a future installment, please feel free to [send me a message](/pages/contact).*&lt;/center&gt;
+&lt;p&gt;It’s been nearly twenty years since I got a PC that was mine and mine alone. It was a laptop, a Dell XPS Studio 1640. It was huge, thick and heavy with a bright red top and a leather strip on the lower part of the screen’s back. I loved that thing. It was 2009 and most of the corporations that are in the news now for &lt;a href=&#34;https://www.theverge.com/news/650665/google-loses-ad-tech-antitrust-monopoly-lawsuit&#34;&gt;anti competitive practices&lt;/a&gt; and &lt;a href=&#34;https://www.scientificamerican.com/article/heres-why-states-are-suing-meta-for-hurting-teens-with-facebook-and-instagram/&#34;&gt;harming teens&lt;/a&gt; were on the upswing. It was a golden age of free software that — because the companies involved were raising venture capital funding — was more focused on gaining users than anything else. Windows was still an operating system you paid for, and Adobe Creative Cloud was still four years away. We were starting to move towards the enshittification hole, but we hadn’t tipped over the edge quite yet.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Tool Recommendations</title>
       <link>/posts/2025-04-12-tools/</link>
-      <pubDate>Sat, 12 Apr 2025 17:34:06 -0600</pubDate>
+      <pubDate>Sat, 12 Apr 2025 00:00:00 +0000</pubDate>
       
       <guid>/posts/2025-04-12-tools/</guid>
       
@@ -32,7 +65,7 @@
     <item>
       <title>Stardew Valley 1.6 and Returning to the Simple Life</title>
       <link>/posts/2024-05-03-stardew/</link>
-      <pubDate>Fri, 03 May 2024 17:34:06 -0600</pubDate>
+      <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
       
       <guid>/posts/2024-05-03-stardew/</guid>
       
@@ -44,7 +77,7 @@
     <item>
       <title>Tea, A Crash Course</title>
       <link>/posts/2024-04-13-tea/</link>
-      <pubDate>Sat, 13 Apr 2024 17:34:06 -0600</pubDate>
+      <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
       
       <guid>/posts/2024-04-13-tea/</guid>
       
