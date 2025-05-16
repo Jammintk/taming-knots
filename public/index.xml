@@ -8,6 +8,18 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 17 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Embracing Open Source Part 3: The Year of the Linux Desktop</title>
+      <link>/posts/2025-05-15-eos3/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2025-05-15-eos3/</guid>
+      
+      <description>&lt;p&gt;&lt;em&gt;This post is a part of my Embracing Open Source series. You can read the last post&lt;/em&gt; &lt;a href=&#34;/posts/2025-05-02-eos2/&#34;&gt;&lt;em&gt;here&lt;/em&gt;&lt;/a&gt;&lt;em&gt;, or if you are particularly interested in a related topic or want to get in touch with me about the series, please&lt;/em&gt; &lt;a href=&#34;/pages/contact/&#34;&gt;&lt;em&gt;send me a message&lt;/em&gt;&lt;/a&gt;&lt;em&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The “Year of the Linux Desktop” has been so often repeated and shouted about, especially from the maintainers of Linux distributions that it may be the biggest joke in the entire Linux community. I think this joke continues to exist for a couple of reasons. The first is that the idea of any Linux distribution being friendly enough that a user never ever has to type a command or edit a file is laughable. The second is that, for most Linux users, that friendliness comes with limitations that they’re just not interested in. So the joke stays and will stay with us to the heat death of the universe.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
       <title>Weeknotes #1</title>
       <link>/posts/2025-05-10-weeknotes1/</link>
       <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
@@ -34,7 +46,7 @@
       
       <guid>/posts/2025-05-02-eos2/</guid>
       
-      <description>&lt;center&gt;*This post is a part of my Embracing Open Source series. You can read the last post [here](posts/2025-04-30-EOS1.html), or if you are particularly interested in a related topic or want to get in touch with me about the series, please [send me a message](/pages/contact).*&lt;/center&gt;
+      <description>&lt;p&gt;&lt;em&gt;This post is a part of my Embracing Open Source series. You can read the last post &lt;a href=&#34;/posts/2025-04-30-eos1/&#34;&gt;here&lt;/a&gt;, or if you are particularly interested in a related topic or want to get in touch with me about the series, please &lt;a href=&#34;/pages/contact/&#34;&gt;send me a message&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Linux is a tough topic to wade into, but this will be a pretty general overview of my path into using the open source operating system for the last year and change, as well as some general recommendations and best practices to keep in mind when trying to dive in yourself. My recommendations shouldn’t be taken as gospel, and everything I say is up to your interpretation anyway, so if you have a different preference, then that’s great! Part of what makes Linux such a great OS to use is that there’s so many options.&lt;/p&gt;</description>
       
     </item>
@@ -46,7 +58,7 @@
       
       <guid>/posts/2025-04-30-eos1/</guid>
       
-      <description>&lt;center&gt;*This post is the start of a series I’ve been wanting to write for a long time. I want to chronicle my journey with Linux, Free and Open Source Software, and taking back control over my data and my devices. If there’s a topic you are particularly interested in reading about in a future installment, please feel free to [send me a message](/pages/contact).*&lt;/center&gt;
+      <description>&lt;p&gt;&lt;em&gt;This post is the start of a series I’ve been wanting to write for a long time. I want to chronicle my journey with Linux, Free and Open Source Software, and taking back control over my data and my devices. If there’s a topic you are particularly interested in reading about in a future installment, please feel free to &lt;a href=&#34;/pages/contact/&#34;&gt;send me a message&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;It’s been nearly twenty years since I got a PC that was mine and mine alone. It was a laptop, a Dell XPS Studio 1640. It was huge, thick and heavy with a bright red top and a leather strip on the lower part of the screen’s back. I loved that thing. It was 2009 and most of the corporations that are in the news now for &lt;a href=&#34;https://www.theverge.com/news/650665/google-loses-ad-tech-antitrust-monopoly-lawsuit&#34;&gt;anti competitive practices&lt;/a&gt; and &lt;a href=&#34;https://www.scientificamerican.com/article/heres-why-states-are-suing-meta-for-hurting-teens-with-facebook-and-instagram/&#34;&gt;harming teens&lt;/a&gt; were on the upswing. It was a golden age of free software that — because the companies involved were raising venture capital funding — was more focused on gaining users than anything else. Windows was still an operating system you paid for, and Adobe Creative Cloud was still four years away. We were starting to move towards the enshittification hole, but we hadn’t tipped over the edge quite yet.&lt;/p&gt;</description>
       
     </item>
