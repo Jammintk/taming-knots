@@ -6,7 +6,7 @@ title = 'EOS Mini: zshrc'
 
 Welcome to the first Embracing Open Source mini! There are a ton of Linux-adjacent topics that aren't often covered as a part of bigger series, so I wanted to highlight those smaller topics in mini posts. Today's subject is the `.zshrc` file. If you use fish, dash, bash, or any other shell, this won't really be specific to you, but you may still find some value here.
 
-A command line window is made up of two things in Linux. The first, more obvious one is the Terminal Emulator. This is the program that displays the text from the system that describes commands happening on the system and allows you to interact with and start those commands. The other part is the shell itself. You can think of the shell as the program that interprets what you write into it into commands to give to the system. I use [kitty]([kitty](https://sw.kovidgoyal.net/kitty/)) as my terminal emulator and [zsh](https://zsh.sourceforge.io/) (Z Shell) as my shell.
+A command line window is made up of two things in Linux. The first, more obvious one is the Terminal Emulator. This is the program that displays the text from the system that describes commands happening on the system and allows you to interact with and start those commands. The other part is the shell itself. You can think of the shell as the program that interprets what you write into it into commands to give to the system. I use [kitty](https://sw.kovidgoyal.net/kitty/) as my terminal emulator and [zsh](https://zsh.sourceforge.io/) (Z Shell) as my shell.
 
 `.zshrc` is the file that zsh looks at every time it's opened to set its configuration. The overall configuration for zsh is loaded at different times from different files. For example, if you log into the computer with zsh, then it will load `.zprofile` at login. All of these files are normally stored at `/home/username>/`. Since I log in using SDDM, the only zsh config file I use is `.zshrc`. Let's take a look at the file. Don't worry, we'll do it in chunks.
 
@@ -82,7 +82,7 @@ zstyle ':completion:*' squeeze-slashes false # Explicitly disabled to allow /*/ 
 
 The next section sets up colors for TTY, then starts loading modules. The first two lines are to set up the Zsh completion module. This module gives me a menu when autocomplete finds multiple entries that fit what's been typed so far. The next module sets up color highlighting for commands, including the completion menu.
 
-![an example of the completion menu in action](/home/brent/Documents/Projects/taming-knots/static/2025-05-18-16-25-24-image.png)
+![an example of the completion menu in action](../../static/2025-05-18-16-25-24-image.png)
 
 The next section is options for the completion module. The comments are pretty self explanatory here.
 

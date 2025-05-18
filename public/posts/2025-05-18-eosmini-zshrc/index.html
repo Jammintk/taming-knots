@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html lang="en-us"><head><meta charset="utf-8">
+<meta http-equiv="content-type" content="text/html">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title itemprop="name">EOS Mini: zshrc | Taming Knots</title>
+<meta property="og:title" content="EOS Mini: zshrc | Taming Knots" />
+<meta name="twitter:title" content="EOS Mini: zshrc | Taming Knots" />
+<meta itemprop="name" content="EOS Mini: zshrc | Taming Knots" />
+<meta name="application-name" content="EOS Mini: zshrc | Taming Knots" />
+<meta property="og:site_name" content="Taming Knots" />
+
+<meta name="description" content="A blog about technology, video games and many other good and interesting things.">
+<meta itemprop="description" content="A blog about technology, video games and many other good and interesting things." />
+<meta property="og:description" content="A blog about technology, video games and many other good and interesting things." />
+<meta name="twitter:description" content="A blog about technology, video games and many other good and interesting things." />
+
+<meta property="og:locale" content="en-us" />
+<meta name="language" content="en-us" />
+
+  <link rel="alternate" hreflang="en-us" href="/posts/2025-05-18-eosmini-zshrc/" title="English" />
+
+
+
+
+
+    
+    
+    
+
+    <meta property="og:type" content="article" />
+    <meta property="og:article:published_time" content=2025-05-18T00:00:00Z />
+    <meta property="article:published_time" content=2025-05-18T00:00:00Z />
+    <meta property="og:url" content="/posts/2025-05-18-eosmini-zshrc/" />
+
+    
+    <meta property="og:article:author" content="Brent Zeimen" />
+    <meta property="article:author" content="Brent Zeimen" />
+    <meta name="author" content="Brent Zeimen" />
+    
+    
+
+    
+
+    <script defer type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "Article",
+        "headline": "EOS Mini: zshrc",
+        "author": {
+        "@type": "Person",
+        "name": ""
+        },
+        "datePublished": "2025-05-18",
+        "description": "",
+        "wordCount":  1370 ,
+        "mainEntityOfPage": "True",
+        "dateModified": "2025-05-18",
+        "image": {
+        "@type": "imageObject",
+        "url": ""
+        },
+        "publisher": {
+        "@type": "Organization",
+        "name": "Taming Knots"
+        }
+    }
+    </script>
+
+
+<meta name="generator" content="Hugo 0.147.3">
+
+    
+    <meta property="og:url" content="/posts/2025-05-18-eosmini-zshrc/">
+  <meta property="og:site_name" content="Taming Knots">
+  <meta property="og:title" content="EOS Mini: zshrc">
+  <meta property="og:description" content="Welcome to the first Embracing Open Source mini! There are a ton of Linux-adjacent topics that aren’t often covered as a part of bigger series, so I wanted to highlight those smaller topics in mini posts. Today’s subject is the .zshrc file. If you use fish, dash, bash, or any other shell, this won’t really be specific to you, but you may still find some value here.
+A command line window is made up of two things in Linux. The first, more obvious one is the Terminal Emulator. This is the program that displays the text from the system that describes commands happening on the system and allows you to interact with and start those commands. The other part is the shell itself. You can think of the shell as the program that interprets what you write into it into commands to give to the system. I use kitty as my terminal emulator and zsh (Z Shell) as my shell.">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2025-05-18T00:00:00+00:00">
+    <meta property="article:modified_time" content="2025-05-18T00:00:00+00:00">
+
+
+    
+    
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="EOS Mini: zshrc">
+  <meta name="twitter:description" content="Welcome to the first Embracing Open Source mini! There are a ton of Linux-adjacent topics that aren’t often covered as a part of bigger series, so I wanted to highlight those smaller topics in mini posts. Today’s subject is the .zshrc file. If you use fish, dash, bash, or any other shell, this won’t really be specific to you, but you may still find some value here.
+A command line window is made up of two things in Linux. The first, more obvious one is the Terminal Emulator. This is the program that displays the text from the system that describes commands happening on the system and allows you to interact with and start those commands. The other part is the shell itself. You can think of the shell as the program that interprets what you write into it into commands to give to the system. I use kitty as my terminal emulator and zsh (Z Shell) as my shell.">
+
+
+    
+
+    <link rel="canonical" href="/posts/2025-05-18-eosmini-zshrc/">
+    <link href="/style.min.3b0848131159f8bd066fbb65ee661d468337e1a5dcd7038ee9b0578b61b41e38.css" rel="stylesheet">
+    <link href="/code-highlight.min.01de12ae20ab2bc0a16269dd6a3cf465d4cfdf75d76dfaa1f17888b853bf1515.css" rel="stylesheet">
+
+    
+    <link rel="apple-touch-icon" sizes="180x180" href="/icons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/icons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/icons/favicon-16x16.png">
+    <link rel="mask-icon" href="/icons/safari-pinned-tab.svg">
+    <link rel="shortcut icon" href="/favicon.ico">
+
+
+
+
+<link rel="manifest" href="/site.webmanifest">
+
+<meta name="msapplication-config" content="/browserconfig.xml">
+<meta name="msapplication-TileColor" content="#2d89ef">
+<meta name="theme-color" content="#434648">
+
+    
+    <link rel="icon" type="image/svg+xml" href="/icons/favicon.svg">
+
+    
+    
+    
+</head>
+<body data-theme = "dark" class="notransition">
+
+<script src="/js/theme.min.8961c317c5b88b953fe27525839672c9343f1058ab044696ca225656c8ba2ab0.js" integrity="sha256-iWHDF8W4i5U/4nUlg5ZyyTQ/EFirBEaWyiJWVsi6KrA="></script>
+
+<div class="navbar" role="navigation">
+    <nav class="menu" aria-label="Main Navigation">
+        <a href="/" class="logo">
+            <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" 
+viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" 
+stroke-linejoin="round" class="feather feather-home">
+<title>Home</title>
+<path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path>
+<polyline points="9 22 9 12 15 12 15 22"></polyline>
+</svg>
+        </a>
+        <input type="checkbox" id="menu-trigger" class="menu-trigger" />
+        <label for="menu-trigger">
+            <span class="menu-icon">
+                <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" stroke="currentColor" fill="none" viewBox="0 0 14 14"><title>Menu</title><path stroke-linecap="round" stroke-linejoin="round" d="M10.595 7L3.40726 7"></path><path stroke-linecap="round" stroke-linejoin="round" d="M10.5096 3.51488L3.49301 3.51488"></path><path stroke-linecap="round" stroke-linejoin="round" d="M10.5096 10.4851H3.49301"></path><path stroke-linecap="round" stroke-linejoin="round" d="M0.5 12.5V1.5C0.5 0.947715 0.947715 0.5 1.5 0.5H12.5C13.0523 0.5 13.5 0.947715 13.5 1.5V12.5C13.5 13.0523 13.0523 13.5 12.5 13.5H1.5C0.947715 13.5 0.5 13.0523 0.5 12.5Z"></path></svg>
+            </span>
+        </label>
+
+        <div class="trigger">
+            <ul class="trigger-container">
+                
+                
+                <li>
+                    <a class="menu-link " href="/">
+                        Home
+                    </a>
+                    
+                </li>
+                
+                <li>
+                    <a class="menu-link active" href="/posts/">
+                        Posts
+                    </a>
+                    
+                </li>
+                
+                <li>
+                    <a class="menu-link " href="/pages/about/">
+                        About
+                    </a>
+                    
+                </li>
+                
+                <li>
+                    <a class="menu-link " href="/pages/contact/">
+                        Contact
+                    </a>
+                    
+                </li>
+                
+                <li class="menu-separator">
+                    <span>|</span>
+                </li>
+                
+                
+            </ul>
+            <a id="mode" href="#">
+                <svg xmlns="http://www.w3.org/2000/svg" class="mode-sunny" width="21" height="21" viewBox="0 0 14 14" stroke-width="1">
+<title>LIGHT</title><g><circle cx="7" cy="7" r="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"></circle><line x1="7" y1="0.5" x2="7" y2="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="2.4" y1="2.4" x2="3.82" y2="3.82" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="0.5" y1="7" x2="2.5" y2="7" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="2.4" y1="11.6" x2="3.82" y2="10.18" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="7" y1="13.5" x2="7" y2="11.5" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="11.6" y1="11.6" x2="10.18" y2="10.18" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="13.5" y1="7" x2="11.5" y2="7" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="11.6" y1="2.4" x2="10.18" y2="3.82" fill="none" stroke-linecap="round" stroke-linejoin="round"></line></g></svg>
+                <svg xmlns="http://www.w3.org/2000/svg" class="mode-moon" width="21" height="21" viewBox="0 0 14 14" stroke-width="1">
+<title>DARK</title><g><circle cx="7" cy="7" r="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"></circle><line x1="7" y1="0.5" x2="7" y2="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="2.4" y1="2.4" x2="3.82" y2="3.82" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="0.5" y1="7" x2="2.5" y2="7" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="2.4" y1="11.6" x2="3.82" y2="10.18" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="7" y1="13.5" x2="7" y2="11.5" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="11.6" y1="11.6" x2="10.18" y2="10.18" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="13.5" y1="7" x2="11.5" y2="7" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="11.6" y1="2.4" x2="10.18" y2="3.82" fill="none" stroke-linecap="round" stroke-linejoin="round"></line></g></svg>
+            </a>
+        </div>
+    </nav>
+</div>
+
+<div class="wrapper post">
+    <main class="page-content" aria-label="Content">
+        <article>
+            <header class="header">
+                <h1 class="header-title">EOS Mini: zshrc</h1>
+                
+                
+                
+                <div class="post-meta">
+                    <time datetime="2025-05-18T00:00:00&#43;00:00" itemprop="datePublished"> May 18, 2025 </time>
+                </div>
+                
+            </header>
+            
+            <div class="page-content">
+                <p>Welcome to the first Embracing Open Source mini! There are a ton of Linux-adjacent topics that aren&rsquo;t often covered as a part of bigger series, so I wanted to highlight those smaller topics in mini posts. Today&rsquo;s subject is the <code>.zshrc</code> file. If you use fish, dash, bash, or any other shell, this won&rsquo;t really be specific to you, but you may still find some value here.</p>
+<p>A command line window is made up of two things in Linux. The first, more obvious one is the Terminal Emulator. This is the program that displays the text from the system that describes commands happening on the system and allows you to interact with and start those commands. The other part is the shell itself. You can think of the shell as the program that interprets what you write into it into commands to give to the system. I use <a href="https://sw.kovidgoyal.net/kitty/">kitty</a> as my terminal emulator and <a href="https://zsh.sourceforge.io/">zsh</a> (Z Shell) as my shell.</p>
+<p><code>.zshrc</code> is the file that zsh looks at every time it&rsquo;s opened to set its configuration. The overall configuration for zsh is loaded at different times from different files. For example, if you log into the computer with zsh, then it will load <code>.zprofile</code> at login. All of these files are normally stored at <code>/home/username&gt;/</code>. Since I log in using SDDM, the only zsh config file I use is <code>.zshrc</code>. Let&rsquo;s take a look at the file. Don&rsquo;t worry, we&rsquo;ll do it in chunks.</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-shell" data-lang="shell"><span class="line"><span class="cl"><span class="c1">## Environment Variables</span>
+</span></span><span class="line"><span class="cl"><span class="c1"># Default Programs</span>
+</span></span><span class="line"><span class="cl"><span class="nb">export</span> <span class="nv">EDITOR</span><span class="o">=</span><span class="s2">&#34;code&#34;</span>
+</span></span><span class="line"><span class="cl"><span class="nb">export</span> <span class="nv">BROWSER</span><span class="o">=</span><span class="s2">&#34;firefox&#34;</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1"># Follow XDG Base Dir Specifications</span>
+</span></span><span class="line"><span class="cl"><span class="nb">export</span> <span class="nv">XDG_CONFIG_HOME</span><span class="o">=</span><span class="s2">&#34;</span><span class="nv">$HOME</span><span class="s2">/.config&#34;</span>
+</span></span><span class="line"><span class="cl"><span class="nb">export</span> <span class="nv">XDG_DATA_HOME</span><span class="o">=</span><span class="s2">&#34;</span><span class="nv">$HOME</span><span class="s2">/.local/.share&#34;</span>
+</span></span><span class="line"><span class="cl"><span class="nb">export</span> <span class="nv">XDG_CACHE_HOME</span><span class="o">=</span><span class="s2">&#34;</span><span class="nv">$HOME</span><span class="s2">/.cache&#34;</span>
+</span></span><span class="line"><span class="cl"><span class="nb">export</span> <span class="nv">XDG_STATE_HOME</span><span class="o">=</span><span class="s2">&#34;</span><span class="nv">$HOME</span><span class="s2">/.local/state&#34;</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1"># History files</span>
+</span></span><span class="line"><span class="cl"><span class="nb">export</span> <span class="nv">LESSHISTFILE</span><span class="o">=</span><span class="s2">&#34;</span><span class="nv">$XDG_CACHE_HOME</span><span class="s2">/zsh-less-history&#34;</span>
+</span></span><span class="line"><span class="cl"><span class="nb">export</span> <span class="nv">PYTHON_HISTORY</span><span class="o">=</span><span class="s2">&#34;</span><span class="nv">$XDG_DATA_HOME</span><span class="s2">/python/history&#34;</span>
+</span></span><span class="line"><span class="cl"><span class="nv">HISTFILE</span><span class="o">=</span><span class="s2">&#34;~/.cache/zsh/zsh-history&#34;</span> <span class="c1"># Moves history file to cache</span>
+</span></span><span class="line"><span class="cl"><span class="c1"># History options</span>
+</span></span><span class="line"><span class="cl"><span class="nv">HISTSIZE</span><span class="o">=</span><span class="m">1000000</span>
+</span></span><span class="line"><span class="cl"><span class="nv">SAVEHIST</span><span class="o">=</span><span class="m">1000000</span>
+</span></span><span class="line"><span class="cl"><span class="nv">HISTCONTROL</span><span class="o">=</span>ignoreboth <span class="c1"># Ignores duplicate and commands starting with a space</span>
+</span></span></code></pre></div><p>Here&rsquo;s the first section of my config. It looks like a lot, but really it&rsquo;s not too bad. The comments should guide us a bit. In case you&rsquo;ve never seen scripting before, a comment is a line that the computer doesn&rsquo;t try to interpret. In this config, comments start with one or more hashes (#). As you can see, then, the first section sets some environment variables for default editor and browser.</p>
+<p>Next, we have the XDG directory specification. These are commonly used locations for specific types of data. Configuration files should go into <code>/home/&lt;username&gt;/.config/</code> for example. The <code>$HOME</code> variable here translates to the <code>/home/&lt;username&gt;</code> part, so if anyone else put this line into their config, it would still work. the <code>XDG_DATA_HOME</code> can be thought of as <code>%APPDATA%</code> on a Windows machine, basically a home-folder-bound place to store application files so that the user doesn&rsquo;t need extended permissions to use them. The cache directory is where applications should stick their temporary files. The State directory is like a <em>slightly</em> more important version of the cache. It should house data for applications that they may need between restarts, but isn&rsquo;t important enough to go into the data directory.</p>
+<p>Next, we have the history file setup. The less history file stores output history anytime the user uses the -less flag on a command or opens manual pages by executing <code>man &lt;command&gt;</code>. The Python history is for python commands, of course. The HISTFILE variable sets up where zsh should send command history. The options after are for the total number of lines to store and how much of that should be stored between sessions. The next line, as the comment says, tells zsh to ignore repeated commands or commands that start with a space.</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-shell" data-lang="shell"><span class="line"><span class="cl"><span class="c1"># add ~/.scripts to PATH</span>
+</span></span><span class="line"><span class="cl"><span class="nb">export</span> <span class="nv">PATH</span><span class="o">=</span><span class="s2">&#34;~/.scripts:</span><span class="nv">$PATH</span><span class="s2">&#34;</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1"># Set XDG specification locations for various environment variables</span>
+</span></span><span class="line"><span class="cl"><span class="nb">export</span> <span class="nv">CARGO_HOME</span><span class="o">=</span><span class="s2">&#34;</span><span class="nv">$XDG_DATA_HOME</span><span class="s2">&#34;</span>/cargo
+</span></span><span class="line"><span class="cl"><span class="nb">export</span> <span class="nv">DISCORD_USER_DATA_DIR</span><span class="o">=</span><span class="s2">&#34;</span><span class="si">${</span><span class="nv">XDG_DATA_HOME</span><span class="si">}</span><span class="s2">&#34;</span>
+</span></span><span class="line"><span class="cl"><span class="nb">export</span> <span class="nv">FFMPEG_DATADIR</span><span class="o">=</span><span class="s2">&#34;</span><span class="nv">$XDG_CONFIG_HOME</span><span class="s2">&#34;</span>/ffmpeg
+</span></span><span class="line"><span class="cl"><span class="nb">export</span> <span class="nv">GOPATH</span><span class="o">=</span><span class="s2">&#34;</span><span class="nv">$XDG_DATA_HOME</span><span class="s2">&#34;</span>/go
+</span></span><span class="line"><span class="cl"><span class="nb">export</span> <span class="nv">GTK_RC_FILES</span><span class="o">=</span><span class="s2">&#34;</span><span class="nv">$XDG_CONFIG_HOME</span><span class="s2">&#34;</span>/gtk-1.0/gtkrc
+</span></span><span class="line"><span class="cl"><span class="nb">export</span> <span class="nv">GTK2_RC_FILES</span><span class="o">=</span><span class="s2">&#34;</span><span class="nv">$XDG_CONFIG_HOME</span><span class="s2">/gtk-2.0/gtkrc&#34;</span>:<span class="s2">&#34;</span><span class="nv">$XDG_CONFIG_HOME</span><span class="s2">/gtk-2.0/gtkrc.mine&#34;</span>
+</span></span><span class="line"><span class="cl"><span class="nb">export</span> <span class="nv">NODE_REPL_HISTORY</span><span class="o">=</span><span class="s2">&#34;</span><span class="nv">$XDG_DATA_HOME</span><span class="s2">&#34;</span>/node_repl_history
+</span></span><span class="line"><span class="cl"><span class="nb">export</span> <span class="nv">NPM_CONFIG_USERCONFIG</span><span class="o">=</span><span class="nv">$XDG_CONFIG_HOME</span>/npm/npmrc
+</span></span><span class="line"><span class="cl"><span class="nb">export</span> <span class="nv">NUGET_PACKAGES</span><span class="o">=</span><span class="s2">&#34;</span><span class="nv">$XDG_CACHE_HOME</span><span class="s2">&#34;</span>/NuGetPackages
+</span></span><span class="line"><span class="cl"><span class="nb">export</span> <span class="nv">BUNDLE_USER_CACHE</span><span class="o">=</span><span class="nv">$XDG_CACHE_HOME</span>/bundle
+</span></span><span class="line"><span class="cl"><span class="nb">export</span> <span class="nv">BUNDLE_USER_CONFIG</span><span class="o">=</span><span class="nv">$XDG_CONFIG_HOME</span>/bundle/config
+</span></span><span class="line"><span class="cl"><span class="nb">export</span> <span class="nv">BUNDLE_USER_PLUGIN</span><span class="o">=</span><span class="nv">$XDG_DATA_HOME</span>/bundle
+</span></span><span class="line"><span class="cl"><span class="nb">export</span> <span class="nv">XINITRC</span><span class="o">=</span><span class="s2">&#34;</span><span class="nv">$XDG_CONFIG_HOME</span><span class="s2">&#34;</span>/X11/xinitrc
+</span></span><span class="line"><span class="cl"><span class="nb">export</span> <span class="nv">XSERVERRC</span><span class="o">=</span><span class="s2">&#34;</span><span class="nv">$XDG_CONFIG_HOME</span><span class="s2">&#34;</span>/X11/xserverrc
+</span></span></code></pre></div><p>Here&rsquo;s another section. The first part adds my home folder Scripts directory to the PATH variable so they can be called from anywhere. You might recall a script that would be useful to call from anywhere from the <a href="/content/posts/2025-05-16-newsite">How the new Taming Knots works</a>. This is where that script lives.</p>
+<p>The following section is just setting up environment variables for a bunch of stuff I have installed to make them use the correct XDG directories, since not all programs follow the specification.</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-shell" data-lang="shell"><span class="line"><span class="cl"><span class="c1"># Source external files</span>
+</span></span><span class="line"><span class="cl"><span class="c1">## add wal colors support for TTY</span>
+</span></span><span class="line"><span class="cl"><span class="nb">source</span> <span class="nv">$XDG_CACHE_HOME</span>/wal/colors-tty.sh
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1"># Load modules</span>
+</span></span><span class="line"><span class="cl">zmodload zsh/complist <span class="c1"># Completion</span>
+</span></span><span class="line"><span class="cl">autoload -U compinit <span class="o">&amp;&amp;</span> compinit
+</span></span><span class="line"><span class="cl">autoload -U colors <span class="o">&amp;&amp;</span> colors <span class="c1"># Shell Colors</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1"># Completion Options</span>
+</span></span><span class="line"><span class="cl">zstyle <span class="s1">&#39;:completion:*&#39;</span> menu <span class="k">select</span> <span class="c1"># Set completion menu to TAB</span>
+</span></span><span class="line"><span class="cl">zstyle <span class="s1">&#39;:completion:*&#39;</span> special-dirs <span class="nb">true</span> <span class="c1"># force . and .. to show in Completion menu</span>
+</span></span><span class="line"><span class="cl">zstyle <span class="s1">&#39;:completion:*&#39;</span> list-colors <span class="si">${</span><span class="p">(s.:.)LS_COLORS</span><span class="si">}</span> <span class="nv">ma</span><span class="o">=</span>0<span class="se">\;</span><span class="m">33</span> <span class="c1"># Colorize the completion menu</span>
+</span></span><span class="line"><span class="cl">zstyle <span class="s1">&#39;:completion:*&#39;</span> squeeze-slashes <span class="nb">false</span> <span class="c1"># Explicitly disabled to allow /*/ expansion</span>
+</span></span></code></pre></div><p>The next section sets up colors for TTY, then starts loading modules. The first two lines are to set up the Zsh completion module. This module gives me a menu when autocomplete finds multiple entries that fit what&rsquo;s been typed so far. The next module sets up color highlighting for commands, including the completion menu.</p>
+<p><img src="../../static/2025-05-18-16-25-24-image.png" alt="an example of the completion menu in action"></p>
+<p>The next section is options for the completion module. The comments are pretty self explanatory here.</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-shell" data-lang="shell"><span class="line"><span class="cl"><span class="c1">#Main options</span>
+</span></span><span class="line"><span class="cl">setopt append_history inc_append_history share_history <span class="c1"># History improvements:</span>
+</span></span><span class="line"><span class="cl"><span class="c1"># History is appended rather than overwriting, is appended as code is executed, </span>
+</span></span><span class="line"><span class="cl"><span class="c1"># and is shared across sessions</span>
+</span></span><span class="line"><span class="cl">setopt auto_menu menu_complete <span class="c1"># Autocomplete first menu match</span>
+</span></span><span class="line"><span class="cl">setopt autocd <span class="c1"># Type the name of a dir to CD into it</span>
+</span></span><span class="line"><span class="cl">setopt auto_param_slash <span class="c1"># When a dir is autocompleted, add a slash, not a space</span>
+</span></span><span class="line"><span class="cl">setopt no_case_glob no_case_match <span class="c1"># makes autocomplete not case sensitive</span>
+</span></span><span class="line"><span class="cl">setopt globdots <span class="c1"># include dotfiles in autocomplete</span>
+</span></span><span class="line"><span class="cl">setopt extended_glob <span class="c1"># matches ~,#,^</span>
+</span></span><span class="line"><span class="cl">setopt interactive_comments <span class="c1"># allow comments in shell</span>
+</span></span><span class="line"><span class="cl">setopt notify <span class="c1"># notify in terminal when a long process completes</span>
+</span></span><span class="line"><span class="cl">stty stop undef <span class="c1"># stops accidental terminal stop</span>
+</span></span></code></pre></div><p>The next section is where we get into zsh&rsquo;s main options. The first one sets up some extra history stuff to make it easier to go back and check it later. The next option sets up completion so that it will automatically write what I select from the menu, so I can just keep typing to get a longer path or set arguments when running a command. The next one is really nice, it lets me <code>cd</code>, or change directory, without typing cd at the beginning of the command. For example, if I open a new shell and want to get to the Taming Knots files, I could just type <code>doc&lt;TAB&gt;P&lt;TAB&gt;t&lt;TAB&gt;&lt;Return&gt;</code> to get to <code>Documents/Projects/taming-knots</code>. Similarly, the next option just makes the autocomplete end with a slash unless another key is pressed so that it&rsquo;s set up for moving through directories automatically and the next option makes it so that the shell doesn&rsquo;t care about case <em>only in the context of autocomplete</em>. Useful if I don&rsquo;t know what case a file might use.</p>
+<p>The glob options below make it easier to match to files with special characters or hidden files. Interactive comments adds comments to the shell itself when running commands. By default, zsh doesn&rsquo;t send a notification to the system when a long command finishes. Setting the Notify option fixes that. The last one on the list is disabling the ctrl+S hotkey, which normally stops the terminal in its tracks. I never use it and it causes more problems than it solves.</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-shell" data-lang="shell"><span class="line"><span class="cl"><span class="c1"># keybinds </span>
+</span></span><span class="line"><span class="cl">bindkey <span class="s2">&#34;^a&#34;</span> beginning-of-line
+</span></span><span class="line"><span class="cl">bindkey <span class="s2">&#34;^e&#34;</span> end-of-line
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1"># Use Oh My Posh for prompt</span>
+</span></span><span class="line"><span class="cl"><span class="nb">eval</span> <span class="s2">&#34;</span><span class="k">$(</span>oh-my-posh init zsh --config <span class="nv">$XDG_CONFIG_HOME</span>/oh-my-posh/.posh.json<span class="k">)</span><span class="s2">&#34;</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1"># Import colorscheme from &#39;wal&#39; asynchronously</span>
+</span></span><span class="line"><span class="cl"><span class="c1"># &amp;   # Run the process in the background.</span>
+</span></span><span class="line"><span class="cl"><span class="c1"># ( ) # Hide shell job control messages.</span>
+</span></span><span class="line"><span class="cl"><span class="c1"># Not supported in the &#34;fish&#34; shell.</span>
+</span></span><span class="line"><span class="cl"><span class="o">(</span>cat ~/.cache/wal/sequences <span class="p">&amp;</span><span class="o">)</span>
+</span></span></code></pre></div><p>Final section! The first two just set some useful keybinds to go to the start or end of a line. The next one tells zsh to load up <a href="https://ohmyposh.dev/">Oh My Posh</a> to make the prompt prettier. Finally, the last line tells the terminal to use colors from my wallpaper using <a href="https://github.com/eylles/pywal16">PyWal16</a>.</p>
+<p>Overall, my configuration is pretty tame, but so seldom do I see examples of configurations in Linux that I figured it would be a good idea to share and explain what I&rsquo;ve done and why.</p>
+
+            </div>
+        </article></main>
+</div>
+<footer class="footer">
+    <span class="footer_item"> </span>
+    &nbsp;
+
+    <div class="footer_social-icons">
+<a href="/index.xml" target="_blank" rel="noopener noreferrer me"
+    title="Rss">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+    stroke-linecap="round" stroke-linejoin="round">
+    <path d="M4 11a9 9 0 0 1 9 9" />
+    <path d="M4 4a16 16 0 0 1 16 16" />
+    <circle cx="5" cy="19" r="1" />
+</svg>
+</a>
+</div>
+    <small class="footer_copyright">
+        © 2025 Brent Zeimen.
+        Powered by <a href="https://github.com/hugo-sid/hugo-blog-awesome" target="_blank" rel="noopener">Hugo blog awesome</a>.
+    </small>
+</footer><a href="#" title="Go to top" id="totop">
+    <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" fill="currentColor" stroke="currentColor" viewBox="0 96 960 960">
+    <path d="M283 704.739 234.261 656 480 410.261 725.739 656 677 704.739l-197-197-197 197Z"/>
+</svg>
+
+</a>
+
+
+    
+
+
+
+
+    
+    
+        
+    
+
+    
+    
+        
+    
+
+
+
+    
+    <script src="/js/main.min.35f435a5d8eac613c52daa28d8af544a4512337d3e95236e4a4978417b8dcb2f.js" integrity="sha256-NfQ1pdjqxhPFLaoo2K9USkUSM30&#43;lSNuSkl4QXuNyy8="></script>
+
+    
+
+</body>
+</html>

@@ -6,7 +6,19 @@
     <description>Recent content on Taming Knots</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EOS Mini: zshrc</title>
+      <link>/posts/2025-05-18-eosmini-zshrc/</link>
+      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2025-05-18-eosmini-zshrc/</guid>
+      
+      <description>&lt;p&gt;Welcome to the first Embracing Open Source mini! There are a ton of Linux-adjacent topics that aren&amp;rsquo;t often covered as a part of bigger series, so I wanted to highlight those smaller topics in mini posts. Today&amp;rsquo;s subject is the &lt;code&gt;.zshrc&lt;/code&gt; file. If you use fish, dash, bash, or any other shell, this won&amp;rsquo;t really be specific to you, but you may still find some value here.&lt;/p&gt;
+&lt;p&gt;A command line window is made up of two things in Linux. The first, more obvious one is the Terminal Emulator. This is the program that displays the text from the system that describes commands happening on the system and allows you to interact with and start those commands. The other part is the shell itself. You can think of the shell as the program that interprets what you write into it into commands to give to the system. I use &lt;a href=&#34;https://sw.kovidgoyal.net/kitty/&#34;&gt;kitty&lt;/a&gt; as my terminal emulator and &lt;a href=&#34;https://zsh.sourceforge.io/&#34;&gt;zsh&lt;/a&gt; (Z Shell) as my shell.&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>Weeknotes #2</title>
       <link>/posts/2025-05-17-weeknotes2/</link>
