@@ -265,7 +265,7 @@ stroke-linejoin="round" class="feather feather-home">
 </span></span><span class="line"><span class="cl">zstyle <span class="s1">&#39;:completion:*&#39;</span> list-colors <span class="si">${</span><span class="p">(s.:.)LS_COLORS</span><span class="si">}</span> <span class="nv">ma</span><span class="o">=</span>0<span class="se">\;</span><span class="m">33</span> <span class="c1"># Colorize the completion menu</span>
 </span></span><span class="line"><span class="cl">zstyle <span class="s1">&#39;:completion:*&#39;</span> squeeze-slashes <span class="nb">false</span> <span class="c1"># Explicitly disabled to allow /*/ expansion</span>
 </span></span></code></pre></div><p>The next section sets up colors for TTY, then starts loading modules. The first two lines are to set up the Zsh completion module. This module gives me a menu when autocomplete finds multiple entries that fit what&rsquo;s been typed so far. The next module sets up color highlighting for commands, including the completion menu.</p>
-<p><img src="../../static/2025-05-18-16-25-24-image.png" alt="an example of the completion menu in action"></p>
+<p><img src="/2025-05-18-16-25-24-image.png" alt="an example of the completion menu in action"></p>
 <p>The next section is options for the completion module. The comments are pretty self explanatory here.</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-shell" data-lang="shell"><span class="line"><span class="cl"><span class="c1">#Main options</span>
 </span></span><span class="line"><span class="cl">setopt append_history inc_append_history share_history <span class="c1"># History improvements:</span>
