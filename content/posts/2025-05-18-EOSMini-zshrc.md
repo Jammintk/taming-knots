@@ -82,7 +82,7 @@ zstyle ':completion:*' squeeze-slashes false # Explicitly disabled to allow /*/ 
 
 The next section sets up colors for TTY, then starts loading modules. The first two lines are to set up the Zsh completion module. This module gives me a menu when autocomplete finds multiple entries that fit what's been typed so far. The next module sets up color highlighting for commands, including the completion menu.
 
-![an example of the completion menu in action](../../static/2025-05-18-16-25-24-image.png)
+![an example of the completion menu in action](/2025-05-18-16-25-24-image.png)
 
 The next section is options for the completion module. The comments are pretty self explanatory here.
 
