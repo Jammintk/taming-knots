@@ -1,5 +1,5 @@
 ---
-title: Tech/Legal
+title: Legal
 description: 'About This Site'
 author: Brent Zeimen
 
@@ -16,5 +16,3 @@ The contact form is provided by [Letterbird](https://letterbird.co), a service p
 Everything written on this site, unless stated and marked otherwise, is of my own creation.
 
 Nothing on this site is made with the use of generative AI.
-
-
