@@ -30,5 +30,22 @@
       
     </item>
     
+    <item>
+      <title>Tech/Legal</title>
+      <link>/pages/legal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/legal/</guid>
+      
+      <description>&lt;p&gt;Taming Knots is a static site written in &lt;a href=&#34;https://daringfireball.net/projects/markdown/&#34;&gt;markdown&lt;/a&gt; and interpreted/built using &lt;a href=&#34;https://gohugo.io/&#34;&gt;hugo&lt;/a&gt; using the &lt;a href=&#34;https://github.com/hugo-sid/hugo-blog-awesome&#34;&gt;Hugo-Blog-Awesome&lt;/a&gt; theme by &lt;a href=&#34;https://fosstodon.org/@sidh&#34;&gt;Sid&lt;/a&gt; and hosted on GitHub Pages.&lt;/p&gt;
+&lt;p&gt;This website does not collect your personal information.&lt;/p&gt;
+&lt;p&gt;This website is completely static (except for the &lt;a href=&#34;https://tk-web.top/pages/contact/&#34;&gt;contact form&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;The contact form is provided by &lt;a href=&#34;https://letterbird.co&#34;&gt;Letterbird&lt;/a&gt;, a service provided by &lt;a href=&#34;https://goodenough.us/&#34;&gt;Good Enough&lt;/a&gt; and they claim they do not sell user data in their &lt;a href=&#34;https://policies.goodenough.us/privacy/&#34;&gt;privacy policy&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Everything written on this site, unless stated and marked otherwise, is of my own creation.&lt;/p&gt;
+&lt;p&gt;Nothing on this site is made with the use of generative AI.&lt;/p&gt;
+</description>
+      
+    </item>
+    
   </channel>
 </rss>

@@ -53,5 +53,7 @@
     <loc>/pages/</loc>
   </url><url>
     <loc>/tags/</loc>
+  </url><url>
+    <loc>/pages/legal/</loc>
   </url>
 </urlset>
