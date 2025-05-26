@@ -6,7 +6,126 @@
     <description>Recent content in Posts on Taming Knots</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Daily Technology: 2025 Edition</title>
+      <link>/posts/2025-05-26-tech-loadout/</link>
+      <pubDate>Mon, 26 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2025-05-26-tech-loadout/</guid>
+      
+      <description>&lt;p&gt;I&amp;rsquo;ve spoken a fair bit about using Linux with my Embracing Open Source series, but I realize I&amp;rsquo;ve neglected to give a rundown of what I actually use day to day in a nice, easy to refer to place. So here it is, my complete technology loadout (for now)&lt;/p&gt;
+&lt;h2 id=&#34;at-the-desk&#34;&gt;At The Desk&lt;/h2&gt;
+&lt;p&gt;My desktop computer is a workhorse. A bit old, and a bit under-powered by today&amp;rsquo;s standards, it still does everything I need and want. It&amp;rsquo;s an understated black mid-size tower, sitting on a bookshelf by the desk.&lt;/p&gt;
+&lt;h4 id=&#34;the-system&#34;&gt;The System:&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;OS: EndeavourOS&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Kernel: Linux 6.12.30-1-lts&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;CPU: AMD Ryzen 7 3800X&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;RAM: 32 GB&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;GPU: AMD Radeon RX6700 XT&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Storage: 1x 2 TB NVMe SSD (Linux), 1x 1 TB NVMe SSD (Windows)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Displays: 2x HP 24&amp;quot; 1920x1080 @ 60hz&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;accessories&#34;&gt;Accessories&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Mouse: Logitech G502 Hero&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Keyboard: Logitech G815 (Clicky variant, Romer G switches)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Speakers: Logitech X-140&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Headphones: Audio Technica ATH-M40X&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Controller: Xbox Series controller (USB-C)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;in-the-basement&#34;&gt;In The Basement&lt;/h2&gt;
+&lt;p&gt;I have a home server that lives in my basement. It hosts a variety of private services for myself and my family. I eventually want to include it in my EOS series, but that&amp;rsquo;s probably going to be near the end of the series when I finally get off of most Google services. The machine itself is a smaller mid-size tower on the floor, just plugging along. I&amp;rsquo;d like to move it into a rack at some point, but this is fine for now.&lt;/p&gt;
+&lt;h4 id=&#34;the-homeserver&#34;&gt;The Homeserver&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;OS: TrueNAS Scale Electric Eel&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;CPU: AMD Ryzen 5 1600&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;RAM: 16 GB&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;GPU: some old Nvidia GPU, just needed something so the system boots since the CPU doesn&amp;rsquo;t have integrated graphics&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Storage: 1x 128 GB SATA SSD (OS) and 3x 4 TB 7200 RPM HDD (bulk storage, in a ZFS pool)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;in-the-living-room&#34;&gt;In The Living Room&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;ve got a couple of things tech-related in the living room. Basically just the gaming machines. The switch I&amp;rsquo;ve had since the console launched. The Optiplex is a bit newer (to me) and was a corporate disposal I was able to pick up on the cheap. Toss a new SSD in there and it makes a pretty great streaming receiver for my desktop PC and can handle some light indie games on its own too.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Nintendo Switch (Original, bad battery life model)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Dell Optiplex with a 11th-gen Core i3 and 128GB SSD running Bazzite&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;in-my-pockets&#34;&gt;In My Pockets&lt;/h2&gt;
+&lt;p&gt;I carry a few things with me daily. It&amp;rsquo;s pretty normal stuff, but for the sake of completeness, I may as well include it. The watch might be a weird inclusion, but like my Optiplex in the living room, its a corporate disposal I was able to pick up and reset. Funny enough, the factory reset completely removed all of the garbage the company it came from loaded it up with. They didn&amp;rsquo;t even set up their apps on a system partition or anything.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Phone: Google Pixel 7a&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;OS: Android 15&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Launcher: Niagara Launcher&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;TicWatch E3&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;OS: Android Wear 3.5&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Anbernic RG34XXSP&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;OS: MuOS (Aw Banana)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Storage: 1x 128 GB MicroSD, 1x 64 GB MicroSD&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Laying it all out I&amp;rsquo;m both surprised at how much there is and surprised at how little there is. I don&amp;rsquo;t have an additional laptop, tablet, or e-reader. I don&amp;rsquo;t have extra consoles, and I don&amp;rsquo;t have some VPS in the cloud either.&lt;/p&gt;
+</description>
+      
+    </item>
+    
     <item>
       <title>Weeknotes #3</title>
       <link>/posts/2025-05-24-weeknotes3/</link>

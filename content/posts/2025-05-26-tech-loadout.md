@@ -1,10 +1,10 @@
 +++
 
-date: '2025-05-26'
+date = '2025-05-26'
 
-draft: false
+draft = false
 
-title: 'Daily Technology: 2025 Edition'
+title = 'Daily Technology: 2025 Edition'
 
 +++
 
