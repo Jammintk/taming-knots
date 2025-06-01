@@ -8,6 +8,96 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 04 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Embracing Open Source Part 4: Daily Programs</title>
+      <link>/posts/2025-06-01-eos4/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2025-06-01-eos4/</guid>
+      
+      <description>&lt;p&gt;&lt;em&gt;This post is a part of my Embracing Open Source series. You can read the last post&lt;/em&gt; &lt;a href=&#34;/posts/2025-05-15-eos3/&#34;&gt;&lt;em&gt;here&lt;/em&gt;&lt;/a&gt;&lt;em&gt;, or if you are particularly interested in a related topic or want to get in touch with me about the series, please&lt;/em&gt; &lt;a href=&#34;/pages/contact/&#34;&gt;&lt;em&gt;send me a message&lt;/em&gt;&lt;/a&gt;&lt;em&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;This post marks the change from general advice and helping new users into Linux toward posts where I&amp;rsquo;ll be explaining things that I&amp;rsquo;ve been doing and what benefit those processes or programs give me, what I would have been using on Windows, and what I wish were different about what I use in the hope that maybe someone reading has a good alternative that does what I need. I particularly don&amp;rsquo;t want to overwhelm with options, so for each type of thing, I&amp;rsquo;ll just mention what I use and move on. If you want something different, you are welcome to do more research on your own.&lt;/p&gt;
+&lt;p&gt;A common stumbling block for people moving to Linux is wondering what software they&amp;rsquo;ll use on a day-to-day basis. Thankfully, through WINE, Proton, and good old fashioned multi-platform applications, a lot is available to fill the gaps left by another operating system. This post is a quick list of programs that I use daily. They may not be the best in their respective category, but I&amp;rsquo;ve found that for the most part, these get the thing done relatively well.&lt;/p&gt;
+&lt;h3 id=&#34;operating-system-functions&#34;&gt;Operating System Functions&lt;/h3&gt;
+&lt;p&gt;These are things that would just be included by default in another operating system, and for which each distribution tends to have a preferred default. Some of these are default to Endeavor OS with KDE Plasma, but many are alternatives that I&amp;rsquo;ve put together after finding some issue with the Plasma default.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;File Browser - While &lt;a href=&#34;https://wiki.archlinux.org/title/Thunar&#34;&gt;Thunar&lt;/a&gt; isn&amp;rsquo;t my preferred file browser UI, it is the one that I have ended up with due to some weird compatibility issues between non-KDE desktops and &lt;a href=&#34;https://apps.kde.org/dolphin/&#34;&gt;Dolphin&lt;/a&gt;. If you&amp;rsquo;re on plasma, use Dolphin. It&amp;rsquo;s &lt;em&gt;exceptionally&lt;/em&gt; good. Tabs, split view, tree view, built in share support, customization context menu entries via Dolphin Actions. On KDE, all of this works fantastically and seamlessly. On other desktops, like Hyprland which is what I use, Dolphin has no idea how to open any files and will not populate a list of applications to use even if it doesn&amp;rsquo;t have a file association. So I&amp;rsquo;m stuck with Thunar, which is my closest second choice. It has a reasonably good UI, support for a split view and tabs, and with some plugins can even do basic stuff Dolphin handled seamlessly, like using trash folders and generating thumbnails.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Web Browser - &lt;a href=&#34;https://firefox.com&#34;&gt;Firefox&lt;/a&gt; is no longer a &lt;a href=&#34;https://arstechnica.com/tech-policy/2025/02/firefox-deletes-promise-to-never-sell-personal-data-asks-users-not-to-panic/&#34;&gt;perfect recommendation&lt;/a&gt;, but I feel like it&amp;rsquo;s still better as a browser to recommend for user privacy than Google Chrome. Firefox is often the default browser option on Linux distributions, though privacy focused alternatives, like &lt;a href=&#34;https://librewolf.net/&#34;&gt;LibreWolf&lt;/a&gt; do exist that are based on the Firefox open source base. I&amp;rsquo;m looking to hopefully switch to &lt;a href=&#34;https://ladybird.org/&#34;&gt;Ladybird&lt;/a&gt; once it&amp;rsquo;s ready for prime-time.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Terminal Emulator and Shell - I use &lt;a href=&#34;https://sw.kovidgoyal.net/kitty/&#34;&gt;kitty&lt;/a&gt; as my terminal emulator. Mostly because it works by default with Hyprland and very seamlessly at that. It&amp;rsquo;s quick and capable and plays nice with everything I want to do. As for my shell, I like &lt;a href=&#34;https://zsh.sourceforge.io/&#34;&gt;Zsh&lt;/a&gt;. It was the default in Manjaro, so I got used to it, but plugins and such included in zsh are really useful. For more on my zsh configuration, check out my &lt;a href=&#34;/posts/2025-05-18-eosmini-zshrc/&#34;&gt;EOS Mini post about it&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Application Launcher - I use &lt;a href=&#34;https://github.com/SimplyCEO/wofi&#34;&gt;Wofi&lt;/a&gt; to handle this and a few other things. It works pretty much exactly like the Windows PowerToys launcher or Spotlight on MacOS. I press Super+Space and get a text box and a few commonly used programs. I type in what I want, hit enter and it launches. I&amp;rsquo;m looking to eventually add more to my configuration like being able to start a new markdown file straight from the launcher or pass a search from Wofi to Firefox to be run immediately.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Notes - I used to use Google Keep for much of this, but lately have moved to &lt;a href=&#34;https://obsidian.md&#34;&gt;Obsidian&lt;/a&gt;. It&amp;rsquo;s very capable without obfuscating all of your notes in a weird database. It uses markdown for formatting, with the addition of double brackets &lt;code&gt;[[like this]]&lt;/code&gt; to denote a link to another Obsidian note, which makes organization really easy, though I tend to be redundant and put notes in folders anyway. The vault folder also contains the configuration and plugins that you use, so if you were to, for example, synchronize that vault to another device with something like Nextcloud, you get free synchronization between devices.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Text and Code Editor - OSS Code is a version of Microsoft&amp;rsquo;s very good VS Code editor without the AI junk crammed down your throat. It&amp;rsquo;s still compatible with VS code extensions and has good Github integration. I use it for most of my configuration file editing and basic text editing tasks.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;productivity-and-creation&#34;&gt;Productivity and Creation&lt;/h3&gt;
+&lt;p&gt;These are programs for getting things done that wouldn&amp;rsquo;t normally be assumed to be a part of the operating system. My use cases are not your use cases, probably, so there may be better options for you here. This is just what I&amp;rsquo;ve ended up with.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Markdown Text Editor - The program I&amp;rsquo;m writing in &lt;em&gt;right now&lt;/em&gt;, &lt;a href=&#34;https://www.marktext.cc/&#34;&gt;MarkText&lt;/a&gt; is a very nice markdown editor. I picked it over other common editors like Obsidian and Typora because it adheres pretty strongly to the markdown standard as written with no proprietary formatting like Obsidian uses and I just plain like the way it looks better than Typora. My MarkText is set to automatically open my blog posts folder when it starts, so I can easily reference old work and save new work in the right place.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Office Suite - &lt;a href=&#34;https://www.libreoffice.org/&#34;&gt;LibreOffice&lt;/a&gt; is the default across much of the Linux world for good reason. It supports all the formats I might use and is familiar enough in UI that I can bang out the work I need fairly quickly. It includes answers for word, powerpoint, excel and onenote.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Image Editors - I use two image editors, depending on what I&amp;rsquo;m doing. For quick and dirty tasks where I&amp;rsquo;m mostly just manipulating existing images, I use &lt;a href=&#34;https://gimp.org&#34;&gt;Gimp&lt;/a&gt;. I&amp;rsquo;m familiar with Gimp since I&amp;rsquo;ve been using it for about fifteen years, but also it&amp;rsquo;s just a very capable photoshop-esque program that runs well. For anything where I&amp;rsquo;m drawing or doing more artistic stuff, I use &lt;a href=&#34;https://krita.org/en&#34;&gt;Krita&lt;/a&gt; which is kind of like Gimp&amp;rsquo;s digital painting focused cousin. While the two share some DNA, it&amp;rsquo;s more common ancestor than common base. The two programs have diverged a fair bit in their direction.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Audio Editing and Recording - While I&amp;rsquo;ve got old experience using &lt;a href=&#34;https://www.audacityteam.org/&#34;&gt;Audacity&lt;/a&gt;, I feel like the Digital Audio Workstation environment has been one of the fastest improving and growing areas in creative software. Audacity is old reliable, but I want to learn &lt;a href=&#34;https://www.reaper.fm/&#34;&gt;Reaper&lt;/a&gt; which seems more aimed at what I want to do with audio.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Scanning - I have a Brother laser printer and scanner that I have to begrudgingly pull out of the closet every few months to print or scan something. The print driver is just whatever works with this model of printer, but for scanning, I have found having a dedicated program like &lt;a href=&#34;https://www.naps2.com/&#34;&gt;NAPS2&lt;/a&gt; available to be extremely useful. It works with both the feeder and flatbed scanner and can collate pages into a single PDF easily. It&amp;rsquo;s not fancy, it&amp;rsquo;s just a work horse program that I appreciate.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;communication&#34;&gt;Communication&lt;/h3&gt;
+&lt;p&gt;Love it or hate it, we use the global net to keep in touch. Thankfully, everything I need is already here.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Email - &lt;a href=&#34;https://www.thunderbird.net&#34;&gt;Thunderbird&lt;/a&gt; is the long-running email client from the folks at Mozilla and my daily use pick. I like that it has PGP security built in, so I can use end-to-end encryption with my contacts and it has a sensible low-frills interface. It&amp;rsquo;s fast and I adapted pretty quickly from Gmail.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Chat, Video/Audio Calls - While &lt;a href=&#34;https://discord.com&#34;&gt;Discord&lt;/a&gt; is not open source, it&amp;rsquo;s unfortunately where my friends and favorite communities are. If moving people to an open standard was possible, I&amp;rsquo;d be much more bullish about switching to something like Matrix. Unfortunately, I&amp;rsquo;m just stuck.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;media-consumption&#34;&gt;Media Consumption&lt;/h3&gt;
+&lt;p&gt;Sometimes I like to have fun on the computer. Here&amp;rsquo;s the stuff that lets me do that. Without these, moving to Linux full time just wouldn&amp;rsquo;t be an option for me at home. I&amp;rsquo;m very thankful that these exist.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Music - While I don&amp;rsquo;t listen to music locally on my machine a whole bunch, I do occasionally fire up a music player to either organize some files or actually listen to something. For the former, I use &lt;a href=&#34;https://www.strawberrymusicplayer.org/&#34;&gt;Strawberry&lt;/a&gt; and the latter I use &lt;a href=&#34;https://tauonmusicbox.rocks/&#34;&gt;Tauon Music Box&lt;/a&gt;. Strawberry&amp;rsquo;s tagging and organization tools are fantastic, but the program looks kind of ugly. Tauon is beautiful, but doesn&amp;rsquo;t have quite as many tools as Strawberry. It would be nice to find an option that had both halves of this equation, but I&amp;rsquo;m also not precious about it. This setup works remarkably well for my use case.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Video - None of the video I watch is local to my machine, so a standard like &lt;a href=&#34;https://www.videolan.org/vlc/index.html&#34;&gt;VLC&lt;/a&gt; isn&amp;rsquo;t really applicable to me. My physical media is all ripped to a &lt;a href=&#34;https://plex.tv&#34;&gt;Plex Media Server&lt;/a&gt; where I watch via a web browser, TV app, or mobile app. I would like to switch to &lt;a href=&#34;https://jellyfin.org/&#34;&gt;Jellyfin&lt;/a&gt; eventually, but I&amp;rsquo;m waiting for their app situation to be a little bit better first.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Reading - I don&amp;rsquo;t read e-books much, but I do read a lot of blogs. For that, I tend to use &lt;a href=&#34;https://github.com/yang991178/fluent-reader&#34;&gt;Fluent Reader&lt;/a&gt; on Android, though in doing research for this post, I realize now that Fluent Reader has a desktop app. Maybe I would read more on my computer if I had that installed. To manage all of my RSS subscriptions, I use &lt;a href=&#34;https://freshrss.org/index.html&#34;&gt;FreshRSS&lt;/a&gt; which does have its own fairly good reading UI.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;New Games - Like just about every PC gamer, I use &lt;a href=&#34;https://store.steampwoered.com&#34;&gt;Steam&lt;/a&gt; a lot. It&amp;rsquo;s by far the best tool to launch and run modern games, regardless of if you bought them from Steam or not.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Other Game Stores - I use &lt;a href=&#34;https://heroicgameslauncher.com/&#34;&gt;Heroic Launcher&lt;/a&gt; to claim free games from Amazon and (until recently) Epic Games as well as download and install games from Amazon, Epic, and GoG. It&amp;rsquo;s not a perfect option, but it generally works well and I can use it in conjunction with Steam to make games run.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Emulation - I use a bevy of programs for emulation. For a frontend, I use &lt;a href=&#34;https://es-de.org/&#34;&gt;EmulationStation Desktop Edition&lt;/a&gt; which makes everything look nice. For most old systems (16-bit and earlier) I use &lt;a href=&#34;https://www.retroarch.com/&#34;&gt;RetroArch&lt;/a&gt; to actually run them, though they&amp;rsquo;re launched through ES-DE. For newer games, I use dedicated emulators. &lt;a href=&#34;https://github.com/Rosalie241/RMG&#34;&gt;Rosalie&amp;rsquo;s Mupen64 Gui&lt;/a&gt; for Nintendo 64, &lt;a href=&#34;https://www.duckstation.org/&#34;&gt;DuckStation&lt;/a&gt; for Playstation, &lt;a href=&#34;https://pcsx2.net/&#34;&gt;PCSX2&lt;/a&gt; for Playstation 2, &lt;a href=&#34;https://ppsspp.org&#34;&gt;PPSSPP&lt;/a&gt; for PSP, and &lt;a href=&#34;https://dolphin-emu.org&#34;&gt;Dolphin&lt;/a&gt; for GameCube and Wii for starters. I don&amp;rsquo;t tend to dip into DS, 3DS, Wii, Wii-U, PS3, or Xbox emulation much, though with the speed at which &lt;a href=&#34;https://rpcs3.net/&#34;&gt;RPCS3&lt;/a&gt; is developing, it might be worth it to eventually add to my stable.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Other Games - I also play a fair bit of The Legend of Zelda: Ocarina of Time and Majora&amp;rsquo;s Mask via the Ship of Harkanian and 2 Ship 2 Harkanian ports which you can find via the &lt;a href=&#34;https://github.com/harbourMasters&#34;&gt;HarbourMasters&lt;/a&gt; GitHub repo. They&amp;rsquo;ve also got a StarFox 64 port there, so check it out.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      
+    </item>
+    
+    <item>
       <title>Weeknotes #4</title>
       <link>/posts/2025-05-31-weeknotes4/</link>
       <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
