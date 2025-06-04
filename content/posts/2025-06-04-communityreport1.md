@@ -1,6 +1,6 @@
 +++
 date = '2025-06-03'
-draft = falseq
+draft = false
 title = 'The Worst Community Report 1'
 +++
 
