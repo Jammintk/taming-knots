@@ -27,8 +27,6 @@ Jason: [⁠Mechanism Gaming Pillow⁠](https://getmechanism.com/products/gaming-
 
 TK: Do hobbies, ask for help, read [⁠TK-web.top](https://tk-web.top)
 
-
-
 Where to Listen:
 
 * RSS: <https://anchor.fm/s/105981164/podcast/rss>
