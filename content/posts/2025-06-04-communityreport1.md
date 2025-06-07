@@ -23,7 +23,7 @@ Lex: [⁠Legend of Podcast: Trails Through Trails⁠](https://trailspod.transist
 
 Emily: [⁠Yuri EVN Webring⁠](https://yurievnring.neocities.org/)
 
-Jason: [⁠Mechanism Gaming Pillow⁠](https://getmechanism.com/products/gaming-pillow)
+Jared: [⁠Mechanism Gaming Pillow⁠](https://getmechanism.com/products/gaming-pillow)
 
 TK: Do hobbies, ask for help, read [⁠TK-web.top](https://tk-web.top)
 
