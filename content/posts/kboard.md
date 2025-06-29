@@ -1,23 +1,53 @@
 +++
-
 date = ''
-
 draft = true
-
 title = 'Switching to an ergo-split keyboard'
-
 +++
 
-* What is a split board?
+My old keyboard has been dying for months, maybe a year, even. It's a Logitech G815. The thing that has been the most annoying as it has aged has been the volume roller registering phantom input and not registering intended input. Some of the keys started to get unreliable as well, so I decided it was time to retire it. My new job has me typing a lot more, so I wanted to try something new. Maybe I could stave off some worsening RSI if I got something more ergonomic.
 
-* Why a split board?
+TK, you may ask, what does "ergo-split" even mean? Well, the basic default keyboard as we know it is kind of bad for you to type on long term. It encourages you putting your hands close together and a lot of movement that may end up hurting you in the long run. An ergonomic keyboard aims to fix that in one of a few ways. Ortholiniar boards have keys in straight vertical columns, to encourage less horizontal finger stretching to hit different keys. Split boards allow you to put two keyboard halves anywhere on your desk to make forearm and shoulder position more neutral and comfortable. I decided that if I was going to try something more ergonomic, I was going to try both of these at once.
 
-* Lily58 from Typeractive.xyz
-  
-   * Building
-  
-   * Learning to solder
-  
-   * Firmware: keymap
-  
-   * using Nick Coustos's Keymap Editor and GitHub to build the FW
+### Enter the Lily58
+
+Many ergonomic split keyboards primarily exist as diagrams and plans that you need to assemble yourself. Some of these are popular enough that boutique board builders will get the custom bits, like PCBs in bulk so that they can sell them on to someone who might not be interested in having the PCB custom made for them by a board printing service. The Lily58 design falls into this category. There's even a couple companies out there that will do some of the soldering and assembly for you. This was a major reason I went with this particular design. I bought mine as a kit from [Typeractive](https://typeractive.xyz). Before I explain the process, I think I should give you an idea of what I got specifically.
+
+* Lily58 PCBs in Choc spacing with sockets and diodes already soldered to the PCB
+
+* 60 Kailh Choc White key switches
+
+* A set of Hypersonic Keycaps
+
+* 3D printed plastic bodies for the board.
+
+* Nice!Nano wireless controllers
+
+* Rechargeable LiPo batteries
+
+* Nice!View screens
+
+* Acrylic screen covers
+
+* Tenting feet
+
+Let's run down the list from the top. The Lily58 is called that because of its 58-key layout. Most keyboards have around 100 keys. More keys isn't always better, but a small layout like the Lily58 often means using more layers. A layer is kind of like a Shift key, but instead of just making your letters be capitals, it makes your letter keys do something different. For example, on my keyboard, holding the Layer Down key makes the top row of the left half change bluetooth profiles so I can have the keyboard remember multiple devices at once and switch between them with ease. Meanwhile, using the Layer Up key turns L, Comma, Period, and Forward Slash into arrow keys. Using these two extra layers, I can replicate the functionality of a full 108-key keyboard with media keys too, even though the Lily58 is so much smaller. The Choc spacing is a Typeractive specific modification, making the keys closer together and the overall footprint smaller. The sockets and diodes are small parts that need to be soldered to the board for it to function. I didn't want to do all that tedious work, so I opted for the board to come to me pre-soldered with these components.
+
+The rest of the parts are a little more self explanatory. The switches are mechanical low-profile switches from Kailh, a reasonably reputable keyboard switch manufacturer. The switch sockets being hot-swappable means I can switch out switches anytime I like. I just have to buy some compatible replacements. The white switches are clicky, meaning they have a distinct click sound when pressed. They also have a tactile bump partway down, which gives your fingers some physical feedback when typing to know when they've pressed a key enough for it to register. In Cherry MX switch parlance, these would be Blue. The low profile of the switches makes them a bit quieter though in addition to having a shorter distance to travel when pressed. I picked these switches because I actually really liked the Romer-G switches Logitech used when my G815 was made. These click and bump a little further down, but the spacing and travel feels very similar. They even sound pretty close. Maybe slightly less metallic. The keycaps I got are double shot which means the letters on them are a different color of plastic, not just painted on. The set I got has a nice, clear legend and I like the color. The case is 3-D printed, so it isn't super nice, but It sure beats having an exposed PCB. It consists of the plastic shell and an aluminum top plate. They used a metallic navy filament so it looks really nice and clean. I am a big fan.
+
+The electronics are next. The board runs off of batteries that sit between the controllers and the board. They're pretty weak, only letting the board stay on for a few days at a time before it needs to be charged, but upgraded batteries shouldn't be too hard to source. The controllers are Nice!Nanos. They charge and connect over USB-C and are wireless, so the keyboard is bluetooth when the USB cables aren't connected. On top of these are the screens. Each half of the board has a screen. The right side is simple, with a connection indicator and battery meter. The left side has more information. A bluetooth profile indicator, connection icon, battery meter, active layer label, and a typing speed graph. These Nice!View displays are 1-bit LCDs with no backlight, so they're relatively inexpensive and don't use a ton of battery, but still look really nice and have better refresh rates than E-ink. The displays are protected with a couple slices of acrylic, giving the thing just a hint of that clear electronics style I love so much.
+
+The last bit is something I haven't had much. It's got some tenting feet. Tenting is when you lift one side of the board to prevent you from having to tilt your wrists inwards quite as much.  I'm not quite convinced I'm going to want to tent my board, but I figured it would be nice to have the option just in case. These are actually meant to be phone kickstands. They have a clever design where if you extend them in most orientations, they stay extended. If you pull them a bit and the extending part is facing down toward the ground, they will close flat via a spring. One of the reasons I haven't been using them is one of them came from Typeractive defective. I don't think it's their fault though. They likely just buy them in bulk from a Chinese supplier and toss a couple boxes in with the keyboard orders if someone buys them. I've reached out to their support, but it hasn't really been long enough for a response yet.
+
+### Building a board
+
+So now you know what the thing *is*, I think I should spend a little time talking about how it came together. The board came in pieces, which I expected. I had to solder the controllers and screens to the PCB, something I haven't ever really done before. Thankfully I already had the stuff I needed to do it from a previous project that never reached the soldering stage. I used my Pinecil to do the soldering. The variable temperature helped a bunch. It took me a little bit to figure out, but by the time I finished the right half, I had gotten it down enough to complete the second half. Thankfully, my solder job worked the first time with no trouble. After the controllers and screens were soldered and installed along with the battery, which just connects with a standard connector to the PCB, I set about the next step: installing switches into the plates. This mostly went fine. I had a couple cases where plastic tabs on the switch housings caught on the plates and bent out of shape. Most of these were fixable and Typeractive included two extra switches, so for the one switch I couldn't fix, I had a spare. With the switches installed in the plates, I pressed them to the PCBs, inserting the switches into their respective sockets on the board. Here I ran into an issue as well. One switch got a bent pin. Again, thankfully, I was able to replace it with one of the spares. With the board's guts together, I screwed on the acrylic covers and screwed the board into the case. The feet and silicone bumpers were simple adhesive after that. The entire process took me an hour and a half or so over two days. Not too bad for something I'd never done before.
+
+Once the board was built, I had to install firmware. The Nice!nano uses ZMK firmware, which is an open standard, so the tools for writing your own keymap are pretty well documented. I used [Nick Coustos's Keymap Editor](https://nickcoutsos.github.io/keymap-editor/) along with Typeractive's template to build a keymap and generate the firmware. After that, it was a simple matter to flash it to the controllers over USB.
+
+### So how is it, anyway?
+
+At first, I was typing at less than half of my normal speed and I had to stare at the board as I typed. I've always looked at my keyboard a fair bit while typing, but with this new layout I had to do it a lot more. I also realized very quickly that I have some really bad typing habits. The biggest of these is that I barely use my pinkies at all, reserving them basically for shift and control and that's about it. I don't think I'll be able to kick that habit, which may end up being bad for me in the long run, but I don't think it's going to be too terrible. The layout I made does also mess me up on occasion. Since I write a lot in Markdown, I tend to use the Grave key quite a bit. It's the same as the Tilde key in American English layouts. In Markdown text, the grave indicates a code format `like this one`. Since I needed that key, I had to move all the numbers to the right by one column. There's enough room for them all, but my muscle memory has me typing everything in the number row one spot to the left. I get grave instead of 1 and 1 instead of 2 regularly. If there was simply an extra spot for escape to live, I could type without worry. Similarly, on the right half, I accidentally hit enter a fair bit when trying to simply type an apostrophe. That one is probably from the smaller key spacing, but I'm getting better at hitting things, even without looking.
+
+Do I think i *needed* this kind of keyboard? Honestly not really. I do like being able to have my hands separated a fair bit though. Plus it let me learn how to solder better. I'm happy for that, for sure. It sounds very nice and it does feel fairly comfortable to type on. Does that mean I recommend it? Also, not really for most people. Again, I do really like it, but it's expensive and if you aren't typing all day, you probably don't need something like this. You do also trade away some of the conveniences of a full size board, like a number pad. I have to hold the lower layer button on my left keyboard to use the number pad on the right one and none of the keys are labeled correctly for a number pad, so I have to remember it myself. 
+
+I know this is coming off rather negative, but it's probably just too early to tell how much I like it. I'll keep at it though. 
