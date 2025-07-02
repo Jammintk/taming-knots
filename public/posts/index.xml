@@ -6,7 +6,47 @@
     <description>Recent content in Posts on Taming Knots</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Play Log: Soul Hackers 2</title>
+      <link>/posts/2025-07-01-playlog-sh2-1/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2025-07-01-playlog-sh2-1/</guid>
+      
+      <description>&lt;p&gt;I&amp;rsquo;ve been lamenting the fact that I don&amp;rsquo;t have good notes for games that I&amp;rsquo;ve been playing, which means when I share a game on The Worst Community Report, I end up unable to properly articulate my thoughts. I&amp;rsquo;m sure the more I talk about things, the more I will feel confident as I speak critically. However, in an effort to speed up this process and flex my critic&amp;rsquo;s muscle, I&amp;rsquo;ve decided to start writing play logs for myself and publishing them. Not every game will get a log, and they may not always be in a nice, easy to read format. They may not even make sense outside of the context of my own brain. I do hope they are useful or enjoyable somewhat, though.&lt;/p&gt;
+&lt;p&gt;Soul Hackers 2 is a JRPG from Atlus released in 2022. I&amp;rsquo;m playing it on PC. Soul Hackers as a series is a sequel to the 1997 Devil Summoner: Soul Hackers for the Sega Saturn, which got updated ports for PSX and 3DS later on. I always misremember the original Soul Hackers as a GBA game. Soul Hackers is technically a sequel to the original Devil Summoner from 1995, though the Devil Summoner series splits into Soul Hackers, which is the JRPG style branch and the Raidou games, which are the action combat version. Raidou&amp;rsquo;s first game recently got a remaster for modern platforms.&lt;/p&gt;
+&lt;p&gt;I started Soul Hackers 2 about a week and a half ago. I picked it up mostly because it was reasonably cheap and because it was SMT-related, I figured I&amp;rsquo;d like whatever Push Turn varient it was sporting. I&amp;rsquo;ve never played any of the other Devil Summoner games extensively, so this series is more or less new to me, though I do really like Persona, another SMT spinoff. Since I started, I&amp;rsquo;ve played maybe six hours or so. Not enought to truly dig in yet, but enough to be introduced to much of the main cast.&lt;/p&gt;
+&lt;p&gt;First, the characters. I enjoy the cast a fair bit. I don&amp;rsquo;t have a great idea of how Saizo and Arrow are going to be long term, but I do really enjoy Milady, Figue, and especially Ringo. The protagonists of the Persona games do have some personality, especially if you read and carefully consider your dialogue choices, but Ringo contrasts signficantly with the Persona MCs. She has a lot more personality straight from the jump.&lt;/p&gt;
+&lt;p&gt;Something I find really interesting about the characters and the story is that Figue and Ringo, the two AI leads are specifically not robots, but they aren&amp;rsquo;t completely human either. That said, Aion, the system that birthed them, decided that beings with souls were what was needed most to ensure the success of their mission. A purely logical being wouldn&amp;rsquo;t perform the Soul Hacks Ringo does to restore the other characters to life. Ringo&amp;rsquo;s curiosity and sense of humor help me stay attached to her a lot.&lt;/p&gt;
+&lt;p&gt;The mechanics are both simpler and more complex than Persona. Gone is Push Turn, replaced by a standard battle system, and the number of damage types is also reduced. That said, the Sabbath system that replaces Push Turn and weakness exploitation feels great to use and does a lot of similar things to Push Turn, where you are encouraged to exploit weaknesses, but spread the damage out among the various enemies in each encounter. The COMP and Soul Skill systems give each character a sense of a build even though they all have the ability to use any Demon you like (as long as there are no duplicates)&lt;/p&gt;
+&lt;p&gt;The relationship building feels lighter than Persona, but it also feels less missable. The skills you get from the relationships also seem very  very very good, so I&amp;rsquo;ll be interested to see how they shake out. I love when a game gives you broken abilities on purpose and this seems to be aligned in the same direction.&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>Switching to an ergo-split keyboard</title>
+      <link>/posts/2025-07-01-kboard/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2025-07-01-kboard/</guid>
+      
+      <description>&lt;p&gt;My old keyboard has been dying for months, maybe a year, even. It&amp;rsquo;s a Logitech G815. The thing that has been the most annoying as it has aged has been the volume roller registering phantom input and not registering intended input. Some of the keys started to get unreliable as well, so I decided it was time to retire it. My new job has me typing a lot more, so I wanted to try something new. Maybe I could stave off some of my RSI symptoms if I got something more ergonomic. After several months of doing research, I decided it was finally time to pull the trigger, so I bought a split ergonomic keyboard in the form of a Lily58 kit from &lt;a href=&#34;https://typeractive.xyz&#34;&gt;Typeractive&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;picking-the-lily58&#34;&gt;Picking the Lily58&lt;/h2&gt;
+&lt;p&gt;In looking at what would theoretically feel better on my wrists where my RSI is most present, I found that there are several factors when it comes to creating a good typing position. One of the biggest things you can do immediately is separate your hands and keep your arms as straight as possible, with appropriate bends at the elbows. On a normal keyboard, this isn&amp;rsquo;t really possible, but if you chop the board in half, you can adjust to any width you like. Another ergonomic adjustment that isn&amp;rsquo;t really possible on a standard board is adjusting the angle. Not front to back, like most keyboards allow for, but from side to side. It&amp;rsquo;s advantageous to type on an angled board, with the thumb side of your hand higher than the pinky side. Many split keyboards have options for tenting feet that let you make that adjustment. The Lily58 fits both of these criteria, while also having enough keys to fit my preference. Many ergonomic split keybaords very few keys, which makes the emulation of a full layout difficult. The Lily58 has 58 keys, so with very basic layering, every function is available. I also wanted to stay away from some of the more expensive options. Like many hobbies, it feels like you can spend as much as you want on a keybaord these days.&lt;/p&gt;
+&lt;p&gt;This keyboard might come off looking pretty DIY and it is. The actual layout is open source (MIT License) and was designed by &lt;a href=&#34;http://kata0510.github.io/Lily58-Document/&#34;&gt;Kata0518 on Github&lt;/a&gt;, but you can buy the boards from a variety of sellers. Most places that sell the Lily58 simply print the circuit board for it and sell that. Maybe with the other components needed to make it function, but they often don&amp;rsquo;t assemble the boards at all. Typeractive offers a half-built option. They do the difficult and tedious soldering of the diodes and hotswap switch sockets and you solder the much easier controllers and displays. The key switches and keycaps themselves are all press-in. This was the biggest reason I went with them. The other major reason is that they have a customized Lily58 option that uses Kailh Choc key switches, which are lower profile than the standard Cherry MX style switches you may know well from most mechanical keyboards. The lower profile switches tend to fell better to me. My old keyboard used Logitech Romer-G switches, which felt like low profile Kailh switches anyway, so the sound and feel of my new keyboard feels familiar in a good way.&lt;/p&gt;
+&lt;h2 id=&#34;building-the-board&#34;&gt;Building the Board&lt;/h2&gt;
+&lt;p&gt;The board came in several parts. In the box, I got the PCBs, top plates, 3D printed cases, sixty Kailh Choc white switches, a set of MBK Hypersonic keycaps, a pair of Nice!Nano controllers, a pair of batteries, a pair of Nice!View screens, a set of four tenting feet, and a pair of acrylic screen covers, as well as the hardware required to get it all together.&lt;/p&gt;
+&lt;p&gt;The process for building the board went pretty easily. I&amp;rsquo;d never soldered pins like these before, but once I got the hang of it, all the joints went together well. It&amp;rsquo;s always fun for me to learn a new skill, and now I&amp;rsquo;m itching to do more projects like this. After everything was soldered, it was a simple matter of pressing in the switches and screwing the case together. In the end it took me a couple hours across two days, but I&amp;rsquo;m very happy with the result.&lt;/p&gt;
+&lt;p&gt;The Nice!Nano modules use ZMK firmware, which is an open source standard. I don&amp;rsquo;t really have a horse in the race between QMK/ZMK, but working with ZMK was super easy. I used the online &lt;a href=&#34;https://github.com/nickcoutsos/keymap-editor&#34;&gt;keymap editor&lt;/a&gt; made by Nick Coutsos to generate it. My layout is fairly simple. I have most things available on the &lt;a href=&#34;/baselayer.png&#34;&gt;base&lt;/a&gt; layer, with a numpad, arrow keys, media keys, bluetooth settings, and function row available on the &lt;a href=&#34;/raiselayer.png&#34;&gt;raise&lt;/a&gt;/&lt;a href=&#34;lowerlayer.png&#34;&gt;lower&lt;/a&gt; layers. I&amp;rsquo;m not completely happy with it. Having the esc key in the number row isn&amp;rsquo;t great. My muscle memory is always off by one key in that row. I think it&amp;rsquo;s not the best layout, but I like it so far otherwise.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/lily58.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;adapting&#34;&gt;Adapting&lt;/h2&gt;
+&lt;p&gt;Getting used to the Lily58 has been a challenge. It has really illuminated some bad typing habits. I don&amp;rsquo;t use my pinky fingers as much as I probably should and I move my hands across the board a lot. These habits are bad, ergonomically, but have been very difficult for me to kick. I still mistype more often on the 58 than on my work laptop or standard keyboard and I&amp;rsquo;m slower there too. I have been improving though, and now I catch myself sometimes typing for several seconds at a time without looking down or stumbling. I&amp;rsquo;m sure that as I type more, I will keep getting better and I&amp;rsquo;m looking forward to it.&lt;/p&gt;
+</description>
+      
+    </item>
+    
     <item>
       <title>Weeknotes #8</title>
       <link>/posts/2025-06-28-weeknotes8/</link>
@@ -155,58 +195,6 @@
 &lt;h2 id=&#34;videos&#34;&gt;Videos&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Stephen posted a new &lt;a href=&#34;https://youtu.be/DLsZB0TNSfY&#34;&gt;video&lt;/a&gt; on Ace Attorney that is really great. I&amp;rsquo;ve wanted to get into more visual novels. Maybe Ace Attorney will be a good way in for me.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-      
-    </item>
-    
-    <item>
-      <title>The Worst Community Report 1</title>
-      <link>/posts/2025-06-04-communityreport1/</link>
-      <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/2025-06-04-communityreport1/</guid>
-      
-      <description>&lt;p&gt;When we said commit to the bit, we didn&amp;rsquo;t realize it would go this far.&lt;/p&gt;
-&lt;p&gt;Games discussed this episode:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Atelier Marie&lt;/li&gt;
-&lt;li&gt;Atelier Ayesha&lt;/li&gt;
-&lt;li&gt;The Hundred Line - Last Defense Academy&lt;/li&gt;
-&lt;li&gt;Metaphor Re:Fantazio&lt;/li&gt;
-&lt;li&gt;Pru the Pidgeon&lt;/li&gt;
-&lt;li&gt;Gwen the Hen 64&lt;/li&gt;
-&lt;li&gt;Twig&amp;rsquo;s Adventure 64&lt;/li&gt;
-&lt;li&gt;A Robot&amp;rsquo;s Tiny Adventure&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;This Week&amp;rsquo;s Recommendations:&lt;/p&gt;
-&lt;p&gt;Lex: &lt;a href=&#34;https://trailspod.transistor.fm/&#34;&gt;⁠Legend of Podcast: Trails Through Trails⁠&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Emily: &lt;a href=&#34;https://yurievnring.neocities.org/&#34;&gt;⁠Yuri EVN Webring⁠&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Jared: &lt;a href=&#34;https://getmechanism.com/products/gaming-pillow&#34;&gt;⁠Mechanism Gaming Pillow⁠&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;TK: Do hobbies, ask for help, read &lt;a href=&#34;https://tk-web.top&#34;&gt;⁠TK-web.top&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Where to Listen:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;RSS: &lt;a href=&#34;https://anchor.fm/s/105981164/podcast/rss&#34;&gt;https://anchor.fm/s/105981164/podcast/rss&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Spotify: &lt;a href=&#34;https://open.spotify.com/show/61By59dwuCx9n1XsjEKnJA&#34;&gt;https://open.spotify.com/show/61By59dwuCx9n1XsjEKnJA&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Amazon Music:  &lt;a href=&#34;https://music.amazon.com/podcasts/00e0fcce-d82f-4efb-94fa-40046319d505/the-worst-community-report&#34;&gt;https://music.amazon.com/podcasts/00e0fcce-d82f-4efb-94fa-40046319d505/the-worst-community-report&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Castbox: &lt;a href=&#34;https://castbox.fm/channel/id6632644?utm_source=podcaster&amp;amp;utm_medium=dlink&amp;amp;utm_campaign=c_6632644&amp;amp;utm_content=The%20Worst%20Community%20Report-CastBox_FM&#34;&gt;https://castbox.fm/channel/id6632644?utm_source=podcaster&amp;utm_medium=dlink&amp;utm_campaign=c_6632644&amp;utm_content=The%20Worst%20Community%20Report-CastBox_FM&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Pocket Casts: &lt;a href=&#34;https://pca.st/idd8mj0q&#34;&gt;https://pca.st/idd8mj0q&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;iHeartRadio: &lt;a href=&#34;https://iheart.com/podcast/279036440/&#34;&gt;https://iheart.com/podcast/279036440/&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;/2025-06-04-communityreport.mp3&#34;&gt;Permalink to MP3&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
 &lt;/ul&gt;
 </description>
       
