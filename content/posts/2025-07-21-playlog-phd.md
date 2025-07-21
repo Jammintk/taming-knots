@@ -1,7 +1,7 @@
 +++
 date = "2025-07-21"
 draft = false
-title = "Playlog: Planetarian HD
+title = "Playlog: Planetarian HD"
 +++
 
 Planetarian Is a visual novel from 2004 developed by Key. A developer I know for their involvement in other "classic" VNs like *Clannad*, *Kanon*, and *Air*. I first learned of them from their original anime, *Angel Beats!* which was animated by P.A. Works and got its own visual novel in 2015.
@@ -15,5 +15,3 @@ That said, I can't help but find myself enjoying the story in spite of that. The
 I'm about two hours in now, in chapter 9 of I think 10 (plus epilogue?) It's interesting to me that this came out in the same year as *Clannad*, which has a surprisingly similar POV character. Okizaki Tomoya similarly seems to be just coasting through life when we meet him, cynical and disillusioned. Where he and the Junker differ, however, is how their character changes over time. Not necessarily in the direction they go, but rather the speed with which they go that way. Tomoya quickly opens up to whichever love interest you guide him towards. Clannad is a bigger game, with more text and a branching story including a "golden route" where you must complete other routes to unlock a true ending. I think I prefer the linear style of *Planetarian*, but I do now want to give *Clannad* another shot.
 
 For more thoughts, tune in to next week's Community Report where we're going to be talking VN turkey with Rinoa.
-
-
