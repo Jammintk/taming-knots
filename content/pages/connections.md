@@ -20,10 +20,12 @@ The internet is a big, intimidating place. Most of it is full of algorithms, sho
 
 * [82MHz Blog by Andreas](http://82mhz.net/posts/)
 * [ATMX Photo Blog by Andy](https://blog.atmxphoto.com/)
+* [The Cheapskate's Guide to Computers and the Internet](https://cheapskatesguide.org/)
+* [The Internet Archive's Blog](https://blog.archive.org/)
+* [Musings by Benjamin Hollon](https://benjaminhollon.com/musings/)
 * [NJMS by Nat](https://www.njms.ca/) 
 * [Notes by JCProbably](https://notes.jeddacp.com/)
 * [Scrolls by Mike Sass (Shellsharks)](https://shellsharks.com/scrolls/)
 * [Studio Notes by Sophy Wong](https://sophywong.com/studionotes/)
-* [Toast's Notes by Toast Rider]
+* [Toast's Notes by Toast Rider](https://toastnotes.bearblog.dev/)
 * [Today in Tabs by Rusty Foster](https://todayintabs.com)
-* 
