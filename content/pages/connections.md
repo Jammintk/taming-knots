@@ -1,8 +1,9 @@
-+++
+---
 title: Connections
-description: "Webrings and Blogrolls from around the Web"
+description: 'Webrings and Blogrolls from around the Web'
 author: Brent Zeimen
-+++
+
+---
 
 The internet is a big, intimidating place. Most of it is full of algorithms, shooting "content" into your face at as fast a rate as possible to try to keep you distracted, scrolling to the next video, the next post, the next ad, the next thing. If you are tired of the endless scroll and want to look at the smaller, interconnected web, then I invite you to read from the sites below. I will endeavor to keep these lists updated with what I'm reading and enjoying.
 
