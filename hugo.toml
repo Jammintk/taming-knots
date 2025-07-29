@@ -51,32 +51,32 @@ ignoreErrors = ["additional-script-loading-error"] # ignore error of loading add
   [Languages.en-us.menu]
   [[Languages.en-us.menu.main]]
     pageRef="legal"
-    name = '/lgl'
+    name = 'Legal'
     url = '/legal/'
     weight = 30
   [[Languages.en-us.menu.main]]
     pageRef="contact"
-    name = '/con'
+    name = 'Contact'
     url = '/contact/'
     weight = 30
   [[Languages.en-us.menu.main]]
     pageRef="connections"
-    name = '/net'
+    name = 'Connections'
     url = '/connections/'
     weight = 30
   [[Languages.en-us.menu.main]]
     pageRef="uses"
-    name = '/use'
+    name = 'Uses'
     url = '/uses/'
     weight = 30
   [[Languages.en-us.menu.main]]
     pageRef="about"
-    name = '/abt'
+    name = 'About'
     url = '/about/'
     weight = 30
   [[Languages.en-us.menu.main]]
     pageRef="posts"
-    name = '/pst'
+    name = 'Posts'
     url = '/posts/'
     weight = 30
 
