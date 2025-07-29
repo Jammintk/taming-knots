@@ -72,6 +72,11 @@ ignoreErrors = ["additional-script-loading-error"] # ignore error of loading add
     url = '/contact/'
     weight = 30
   [[Languages.en-us.menu.main]]
+    pageRef="contact"
+    name = 'Connections'
+    url = '/connections/'
+    weight = 30
+  [[Languages.en-us.menu.main]]
     pageRef="legal"
     name = 'Legal'
     url = '/legal/'
