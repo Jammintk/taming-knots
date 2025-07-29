@@ -50,9 +50,14 @@ ignoreErrors = ["additional-script-loading-error"] # ignore error of loading add
 
   [Languages.en-us.menu]
   [[Languages.en-us.menu.main]]
-    pageRef="posts"
-    name = '/pst'
-    url = '/posts/'
+    pageRef="legal"
+    name = '/lgl'
+    url = '/legal/'
+    weight = 30
+  [[Languages.en-us.menu.main]]
+    pageRef="contact"
+    name = '/con'
+    url = '/contact/'
     weight = 30
   [[Languages.en-us.menu.main]]
     pageRef="connections"
@@ -65,19 +70,14 @@ ignoreErrors = ["additional-script-loading-error"] # ignore error of loading add
     url = '/uses/'
     weight = 30
   [[Languages.en-us.menu.main]]
-    pageRef="contact"
-    name = '/con'
-    url = '/contact/'
-    weight = 30
-  [[Languages.en-us.menu.main]]
     pageRef="about"
     name = '/abt'
     url = '/about/'
     weight = 30
   [[Languages.en-us.menu.main]]
-    pageRef="legal"
-    name = '/lgl'
-    url = '/legal/'
+    pageRef="posts"
+    name = '/pst'
+    url = '/posts/'
     weight = 30
 
 [Languages.en-us.params]
