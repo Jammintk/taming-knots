@@ -8,6 +8,21 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 29 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>New Pages on Taming Knots</title>
+      <link>/posts/2025-07-29-newpages/</link>
+      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2025-07-29-newpages/</guid>
+      
+      <description>&lt;p&gt;I did some development work on Tk-web.top today during some downtime at work. I&amp;rsquo;ve added two pages to the main navigation at the top of the page, &lt;a href=&#34;/pages/connections/&#34;&gt;Connections&lt;/a&gt; and &lt;a href=&#34;/pages/uses/&#34;&gt;Uses&lt;/a&gt;. I&amp;rsquo;ve also taken the opportunity to order the pages in the header to make the order make more sense.&lt;/p&gt;
+&lt;p&gt;The Connections page is for blogs and other more ongoing media that makes more sense to place in a dedicated page rather than constantly write about them in weeknotes over and over again. I&amp;rsquo;ll try to update the page over time with more blogs, youtube channels, and podcasts.&lt;/p&gt;
+&lt;p&gt;The Uses page I don&amp;rsquo;t particularly like the name of, but I like the concept of quite a bit. It&amp;rsquo;s a sort of snapshot into the devices and tools I use on a day to day basis right now. As things change, I&amp;rsquo;ll be updating the lists. It&amp;rsquo;s also a good place to put out an intention of replacing tools I like less than I used to for whatever reason.&lt;/p&gt;
+&lt;p&gt;I plan on adding more of these slashpages over time, but I may not always make the links public. It might be a fun little easter egg for folks.&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
       <title>weeknotes #12</title>
       <link>/posts/2025-07-26-weeknotes12/</link>
       <pubDate>Sun, 27 Jul 2025 00:00:00 +0000</pubDate>
