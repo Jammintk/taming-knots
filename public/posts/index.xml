@@ -6,7 +6,34 @@
     <description>Recent content in Posts on Taming Knots</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Weeknotes #13</title>
+      <link>/posts/2025-08-03-weeknotes13/</link>
+      <pubDate>Sun, 03 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2025-08-03-weeknotes13/</guid>
+      
+      <description>&lt;ul&gt;
+&lt;li&gt;A second rough week in a row. A debilitating migraine Thursday and a very late night Wednesday combined with a nice shouting match earlier in the week to really put a damper on things. I&amp;rsquo;m doing better now that it&amp;rsquo;s the weekend.&lt;/li&gt;
+&lt;li&gt;We did some yard work to fix up the front of the house yesterday. Planted some new shrubs and added a border ring to one of the trees. Probably going to do the other tree today after I mow. I&amp;rsquo;m looking forward to getting it done. The shrubs especially have looked bad for an entire year.&lt;/li&gt;
+&lt;li&gt;I finally decided to ditch Nextcloud on the home server. It offered a lot of nice features, but it ran super slowly and was too heavy. I don&amp;rsquo;t need enterprise features in a personal file server. So instead, I&amp;rsquo;ve deployed &lt;a href=&#34;https://github.com/9001/copyparty&#34;&gt;Copyparty&lt;/a&gt;, which is a file server written in python and deployable in Docker. I haven&amp;rsquo;t set everything up I want to with it, but I&amp;rsquo;ve got the basics working and I really like it so far. It does exactly what I need: provide access to my home server&amp;rsquo;s file storage from anywhere. The next step for the home server is deploying a photo management solution that plays nice with Copyparty.&lt;/li&gt;
+&lt;li&gt;I&amp;rsquo;ve set up my RG35XXSP again with MuOS Pixie. I&amp;rsquo;m going to start playing more games at work on my breaks. I love this little thing and the newest version of MuOS feels really great to use.&lt;/li&gt;
+&lt;li&gt;I&amp;rsquo;ve decided that my experiment with Hyprland is at an end. As much as I like it, I also want my PC to be as approachable as possible for Emily, so I&amp;rsquo;m going to switch back to Plasma. This is going to come with a complete reinstall of the OS to clean things up a bit. I&amp;rsquo;m looking forward to finally excising Windows from my personal life and switching full time back to Plasma is the best way to do that I think.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;playing&#34;&gt;Playing&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;More &lt;em&gt;Robotnik&amp;rsquo;s Ring Racers&lt;/em&gt;. I&amp;rsquo;m just about done with all of the cups in single player on the basic difficulty. There&amp;rsquo;s &lt;em&gt;a lot&lt;/em&gt; there within the base release not counting the community made tracks. I haven&amp;rsquo;t even really looked at additional tracks for the game yet, but I&amp;rsquo;m excited to jump in with those eventually.&lt;/li&gt;
+&lt;li&gt;I played a bunch of the &lt;a href=&#34;https://itch.io/jam/the-worst-game-jam-3&#34;&gt;Worst Game Jam 3 submissions&lt;/a&gt; &lt;em&gt;Ghost &amp;amp; Found&lt;/em&gt; and &lt;em&gt;Along an Etremety&lt;/em&gt; were big hits for me. I highly recommend you check them out!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;watching&#34;&gt;Watching&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;We&amp;rsquo;re still plugging away at &lt;em&gt;DanDaDan&lt;/em&gt; Season 2 and &lt;em&gt;City the Animation&lt;/em&gt;. We&amp;rsquo;re enjoying both of them quite a lot. Once these are done, we&amp;rsquo;ll probably return to &lt;em&gt;Twin Peaks&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      
+    </item>
+    
     <item>
       <title>New Pages on Taming Knots</title>
       <link>/posts/2025-07-29-newpages/</link>
