@@ -19,10 +19,10 @@ A modern system is a constantly changing and mutating organism. Tools come and g
 ## Software
 
 * Operating System: EndeavourOS Linux
-* Desktop Environment: Hyprland (Plasma backup)
+* Desktop Environment: KDE Plasma 6
 * Terminal: Kitty
 * File Manager: Thunar
-* Text Editor: OSS Code, *MarkText*, Obsidian
+* Text Editor: Code OSS, *MarkText*, Obsidian
 * Audio Recording: Audacity
 * Audio Editing: Reaper
 * Web Browser: *Firefox*
@@ -47,7 +47,9 @@ A modern system is a constantly changing and mutating organism. Tools come and g
 
 * Video Streaming: *Plex*, Jellyfin
 * Audio Streaming: *Plex*
-* File Server: *Nextcloud*, Copyparty, WebDAV, Samba
+* Audiobooks: AudioBookShelf
+* Ebooks: Calibre Web Automated
+* File Server: CopyParty, WebDAV, Samba
 * RSS Subscription Management: FreshRSS, RSSHub
 
 # Phone
@@ -66,8 +68,8 @@ A modern system is a constantly changing and mutating organism. Tools come and g
 * Maps: Google Maps
 * Music: *Plexamp*
 * Podcasts: Podcast Addict
+* eBook reader: KoReader
 * RSS Reader: Fluent Reader
 * Data Synchronization: FolderSync
 * Streaming Video: *Plex*, Jellyfin
 * Notes: Obsidian
-* 
