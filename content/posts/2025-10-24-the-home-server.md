@@ -15,7 +15,7 @@ My reasoning for doing a lot of this work myself comes down to a few key points.
 
 So then, my plan was to have a server with several terabytes of redundant storage, that can serve video and music over the internet, can be a repository for all of our family's photos, can act as a general-use file server, and that is backed up offsite so that I can follow data security best practices. I'm happy to say that I've achieved that goal and it even has a few tricks up its sleeve.
 
-## The Hardware
+## Layer 0: The Hardware
 
 While just about any computer can be a home server, from a raspberry pi with an external hard drive to a monstrous JBOD (Just a Bunch of Disks) intertwined with a compute server with multiple CPUs and 128GB of RAM, my goal is simple enough that I was able to take common home PC parts and assemble a server on a budget.
 
@@ -26,3 +26,12 @@ While just about any computer can be a home server, from a raspberry pi with an 
 * GPU: The cheapest possible GPU I could find to let the CPU boot because the Ryzen 1600 doesn't have an onboard one.
 
 For the case, I went with the cheapest I could find on Newegg, a $20 mid tower that is a nightmare to work in, but is cheap and holds the parts. None of this hardware was top of the line when I got it and none of it needs replacement quite yet. It's all connected to an ITX motherboard, which is only a problem because it only has 2 RAM slots, so if I want to upgrade I can't just buy more of the same modules. I have to get whole new ones.
+
+## Layer 1: Operating System
+
+There's a few operating system options for home servers. I started my journey with a Windows Server installation. Quickly, though, I found that Windows was not really suitable for the kind of setup I wanted. I didn't want to have to access the server remotely with Remote Desktop. My next stop was an Ubuntu server. Again, I was stymied by the interface, which required too much management via command line interface than I was ready to accept at that time. My next port of call was Unraid. Finally, a Network Attached Storage-focused opoerating system. I liked Unraid a lot. It ran off of a USB stick, was available on the web aywhere in the network, and had support for Plex, the primary service I wanted the server to provide at the time. In the end, though, Unraid just wasn't really cutting it.
+
+Finally, though, I settled on TrueNAS Scale, the Ubuntu-based NAS operating system by iX Systems. iX has been making NAS software for ages. TrueNAS Scale is an enterprise-level solution that is free for personal use. I've found that it makes having a complex, robust setup fairly easy as long as you are willing to learn some of the more advanced concepts you will need. The operating system handles backup and network file shares natively for me, with docker containers making up the bulk of the utility that the server provides.
+
+## Layer 2: Services
+
