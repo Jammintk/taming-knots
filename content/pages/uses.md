@@ -9,10 +9,10 @@ A modern system is a constantly changing and mutating organism. Tools come and g
 
 # Taming Knots
 
-* Editor: Typora
+* Editor: Typora, *VS Code*
 * Static Site Generator: Hugo
 * Code Repository: *GitHub*
-* Web Host: *CloudFlare*
+* Web Host: *CloudFlare Pages*
 * Domain Registration: Porkbun
 
 # Desktop PC
