@@ -29,3 +29,11 @@ The internet is a big, intimidating place. Most of it is full of algorithms, sho
 * [Studio Notes by Sophy Wong](https://sophywong.com/studionotes/)
 * [Toast's Notes by Toast Rider](https://toastnotes.bearblog.dev/)
 * [Today in Tabs by Rusty Foster](https://todayintabs.com)
+
+## Other Projects
+
+We all have many projects. While I tend to keep myself to myself, I will put up anything that I've worked on made for public consumption here. Do not expect this list to update often, if at all.
+
+* [The Worst Community Report](https://twcr-radio.online): A podcast I do with a few friends from [The Worst Garbage](https://theworstgarbage.online/)'s community. We talk about games, manga, anime, and all manner of other topics. Episodes release Thursdays.
+* [The Worst Game Jam: Winter 2025](https://itch.io/jam/the-worst-game-jam-2025): A game jam for The Worst Garbage community. I tend to host the Winter editions.
+* [The Worst Game Jam 4: Video Game Jamtimism](https://itch.io/jam/the-worst-game-jam-4): The next iteration of the Worst Game Jam, coming in January 2026!
