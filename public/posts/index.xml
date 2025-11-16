@@ -6,7 +6,155 @@
     <description>Recent content in Posts on Taming Knots</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Weeknotes #18</title>
+      <link>/posts/2025-11-15-weeknotes18/</link>
+      <pubDate>Sat, 15 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2025-11-15-weeknotes18/</guid>
+      
+      <description>&lt;h2 id=&#34;tinkering&#34;&gt;Tinkering&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;I updated the &lt;a href=&#34;/pages/uses/&#34;&gt;Uses&lt;/a&gt; page. It&amp;rsquo;s now a little longer and more detailed.&lt;/li&gt;
+&lt;li&gt;I also updated the &lt;a href=&#34;/pages/connections/&#34;&gt;Connections&lt;/a&gt; page with some of my own projects. Probably not anything new to anyone here, but might be nice to have all in one spot.&lt;/li&gt;
+&lt;li&gt;Did the network swap at the new place. Still running into severe signal issues at the new &amp;ldquo;office&amp;rdquo; location. I&amp;rsquo;m going to see if I can use an old AP as a repeater, but initial results suggest not.&lt;/li&gt;
+&lt;li&gt;I&amp;rsquo;m doing some looking into Subtitles options for Jellyfin. The OpenSubtitles plugin straight up doesn&amp;rsquo;t do anything, so I&amp;rsquo;m looking at bazarr.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;playing&#34;&gt;Playing&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Yakuza Kiwami has been taking most of my gaming time this week. I&amp;rsquo;ve been doing a &lt;em&gt;lot&lt;/em&gt; more sub-stories in this game. The Trouble Finder accessory is helping a lot with that. I&amp;rsquo;m 5 chapters in, and really enjoying it.&lt;/li&gt;
+&lt;li&gt;I have &lt;em&gt;nearly&lt;/em&gt; conquered the Basic Tours in Ridge Racer 2 PSP. The last few races are really putting a damper on my progress. I might have to look at some strategies for them.&lt;/li&gt;
+&lt;li&gt;I played the first half hour or so of Valkyrie Profile: Lenneth for the PSP this morning. I like it, but it&amp;rsquo;s very slow. I might swap to emulation just to have a fast forward throttle.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;watching&#34;&gt;Watching&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Got up through episode 8 of Twin Peaks the Return this week. I&amp;rsquo;m having a good time, but the thing is grade A crazy. I am really hoping I get any closure at all, even if I have to pull it from vagaries and assumptions.&lt;/li&gt;
+&lt;li&gt;Not started yet, but I&amp;rsquo;m going to be picking up Mobile Suit Gundam Wing this week, to watch along with Bluzo a bit. I&amp;rsquo;m looking forward to it!&lt;/li&gt;
+&lt;li&gt;I&amp;rsquo;ve been watching some of the Game Changer that I hadn&amp;rsquo;t had access to before. I think alongside Taskmaster, it is one of the most interesting game show concepts I&amp;rsquo;ve ever seen and I love it a lot.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>Weeknotes #17</title>
+      <link>/posts/2025-11-08-weeknotes17/</link>
+      <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2025-11-08-weeknotes17/</guid>
+      
+      <description>&lt;p&gt;A light week for notes. I&amp;rsquo;m still unpacking and settling in at the new place. Publishing these a little late because I ended up with less energy to write them than I thought.&lt;/p&gt;
+&lt;h2 id=&#34;tinkering&#34;&gt;Tinkering&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;I finally plugged in the big network switch I got from a coworker. I don&amp;rsquo;t think it&amp;rsquo;s going to be a good fit. It&amp;rsquo;s just too loud.&lt;/li&gt;
+&lt;li&gt;The wifi situation is awful at the new place and there&amp;rsquo;s no good way to get ethernet by the desk. Looks like I&amp;rsquo;ll be spending a little time working out a longer-range wifi setup. I&amp;rsquo;ve still got the network equipment from the old house, so maybe I try that stuff first and if it doesn&amp;rsquo;t work straight away we get a second AP to use as a bridge or repeater.&lt;/li&gt;
+&lt;li&gt;I upgraded my editing process for the podcast. It won&amp;rsquo;t help in every episode, but for those it will help, the process improvements will make it significantly faster to edit. A massive thanks to Mike over in the TWG discord for his excellent guide.&lt;/li&gt;
+&lt;li&gt;Speaking of the podcast, it&amp;rsquo;s got a &lt;a href=&#34;https://twcr-radio.online/&#34;&gt;snazzy new site!&lt;/a&gt; A huge thanks to AJ for helping us with the move to Transistor.fm!&lt;/li&gt;
+&lt;li&gt;I haven&amp;rsquo;t started in earnest yet, but I did download the slicer for my dad&amp;rsquo;s Prusa 3D printer. I&amp;rsquo;m excited to start making things with it.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;playing&#34;&gt;Playing&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Finished Alan Wake II and really enjoyed it. I really like what they&amp;rsquo;re doing with cyclical storytelling here. I also love the dig at generative AI in the Lake House DLC. The entire thing makes me super excited to see what Remedy does next with Control.&lt;/li&gt;
+&lt;li&gt;Started Yakuza Kiwami. My initial impressions are gneerally positive. It feels a lot faster and breezier than Yakuza 0 and Yakuza Like a Dragon, but my one big pain point remains from Yakuza 0 in that bosses are extremely spongey.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;watching&#34;&gt;Watching&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;We&amp;rsquo;ve started Twin Peaks the Return. We&amp;rsquo;re four episodes in and I am liking it a lot while also feeling like Lynch is taking things even slower than he did in the first two seasons. I&amp;rsquo;m sure we won&amp;rsquo;t get explanations for everything, but I&amp;rsquo;ll be excited to get whatever we do get.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>The Home Server</title>
+      <link>/posts/2025-10-30-the-home-server/</link>
+      <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2025-10-30-the-home-server/</guid>
+      
+      <description>&lt;p&gt;Long time no see!&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve heard enough interest in the fabled home server that I decided I&amp;rsquo;d like to push a little update to the blog about it, especially since I am &lt;em&gt;finally&lt;/em&gt; at a stable spot with it where I feel good about all of the services and features I have implimented. I don&amp;rsquo;t forsee myself rolling out any new services or tools in the near future and I have figured out solutions to some of the gaps I had in my setup so now I&amp;rsquo;m fully ready to share.&lt;/p&gt;
+&lt;h2 id=&#34;why-the-home-server&#34;&gt;Why the Home Server?&lt;/h2&gt;
+&lt;p&gt;My reasoning for doing a lot of this work myself comes down to a few key points. One huge one is the feeling that I have, over the years, given up a ton of ground to various corporate interests in my digital life. All my personal photos were in Google&amp;rsquo;s hands, my music tied up in subscriptions, video transiently floating between streaming services, and all of my documents and notes were in proprietary formats tying me down to specific software or web services. While it felt like the data was &lt;em&gt;safe&lt;/em&gt; in many of these locations, it also felt like it could be very easily leveraged for tracking, advertising, and that my data wasn&amp;rsquo;t really mine. How useful is a pen if you can only use it on the paper sold by the pen company? Another reason I went down this road is that I&amp;rsquo;m a cheapskate. I don&amp;rsquo;t like spending $15/mo for Amazon Prime, $18/mo for Netflix, $23/mo for YouTube Premium (which includes YouTube Music) and $100/yr for Google One cloud storage, among other things and even after all that have to deal with the inconviniences that come with the DRM involved, managing numbers of devices on the streaming services, having content go in and out of availability, not being able to mix local media libraries with the streamed ones, and having limits to my file storage. The final and biggest reason to make a home server for me personally, is that I&amp;rsquo;m just plain interested in it. I like doing the management and tinkering to get everything working just right.&lt;/p&gt;
+&lt;p&gt;So then, my plan was to have a server with several terabytes of redundant storage, that can serve video and music over the internet, can be a repository for all of our family&amp;rsquo;s photos, can act as a general-use file server, and that is backed up offsite so that I can follow data security best practices. I&amp;rsquo;m happy to say that I&amp;rsquo;ve achieved that goal and it even has a few tricks up its sleeve.&lt;/p&gt;
+&lt;h2 id=&#34;layer-0-the-hardware&#34;&gt;Layer 0: The Hardware&lt;/h2&gt;
+&lt;p&gt;While just about any computer can be a home server, from a raspberry pi with an external hard drive to a monstrous JBOD (Just a Bunch of Disks) intertwined with a compute server with multiple CPUs and 128GB of RAM, my goal is simple enough that I was able to take common home PC parts and assemble a server on a budget.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;CPU: Ryzen 5 1600&lt;/li&gt;
+&lt;li&gt;RAM: 16GB DDR4, 2400MT/s&lt;/li&gt;
+&lt;li&gt;SSD: 128GB PNY SATA&lt;/li&gt;
+&lt;li&gt;HDD: 3x 4TB Seagate BarraCuda 7200RPM&lt;/li&gt;
+&lt;li&gt;GPU: The cheapest possible GPU I could find to let the CPU boot because the Ryzen 1600 doesn&amp;rsquo;t have an onboard one.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For the case, I went with the cheapest I could find on Newegg, a $20 mid tower that is a nightmare to work in, but is cheap and holds the parts. None of this hardware was top of the line when I got it and none of it needs replacement quite yet. It&amp;rsquo;s all connected to an ITX motherboard, which is only a problem because it only has 2 RAM slots, so if I want to upgrade I can&amp;rsquo;t just buy more of the same modules. I have to get whole new ones.&lt;/p&gt;
+&lt;h2 id=&#34;layer-1-operating-system&#34;&gt;Layer 1: Operating System&lt;/h2&gt;
+&lt;p&gt;There&amp;rsquo;s a few operating system options for home servers. I started my journey with a Windows Server installation. Quickly, though, I found that Windows was not really suitable for the kind of setup I wanted. I didn&amp;rsquo;t want to have to access the server remotely with Remote Desktop. My next stop was an Ubuntu server. Again, I was stymied by the interface, which required too much management via command line interface than I was ready to accept at that time. My next port of call was Unraid. Finally, a Network Attached Storage-focused opoerating system. I liked Unraid a lot. It ran off of a USB stick, was available on the web aywhere in the network, and had support for Plex, the primary service I wanted the server to provide at the time. In the end, though, Unraid just wasn&amp;rsquo;t really cutting it.&lt;/p&gt;
+&lt;p&gt;Finally, though, I settled on TrueNAS Scale, the Ubuntu-based NAS operating system by iX Systems. iX has been making NAS software for ages. TrueNAS Scale is an enterprise-level solution that is free for personal use. I&amp;rsquo;ve found that it makes having a complex, robust setup fairly easy as long as you are willing to learn some of the more advanced concepts you will need. The operating system handles backup and network file shares natively for me, with docker containers making up the bulk of the utility that the server provides.&lt;/p&gt;
+&lt;h2 id=&#34;layer-2-network-setup&#34;&gt;Layer 2: Network Setup&lt;/h2&gt;
+&lt;p&gt;One of the most complicated things to get your head around when working with a home server is how you want the network to be set up. The most basic setup would be everything hosted and exposed over local IP addresses and ports. This ensures network security, but you have to remember that 192.168.1.50:32400 is Plex, 192.168.1.50:8123 is Home Assistant, etc. Some of these applications can make a handshake with an external service to allow you to access them outside your network with no further setup, like Plex, but for the most part, this limits access to within the network only.&lt;/p&gt;
+&lt;p&gt;The next tier up of network complexisty involves creating a domain for your local services, but not exposing that domain to the wider internet. This can be done with a combination of a reverse proxy, like Nginx, and a DNS server. A DNS server can be a useful application on its own, so I&amp;rsquo;ll cover that more in depth later. The short of it is that the DNS server rewrites specific domain calls to an IP address. Once the traffic is going to the local IP, the reverse proxy will look at the request&amp;rsquo;s intended destination (the domain you typed) and forward it to the port you set for that domain. For example, a request for &lt;code&gt;http://jellyfin.local&lt;/code&gt; can be intercepted and sent to &lt;code&gt;192.168.1.50&lt;/code&gt;. The &lt;code&gt;http://&lt;/code&gt; at the start means the traffic is going to come on port 80. The reverse proxy is listening there, sees traffic intended for &lt;code&gt;http://jellyfin.local&lt;/code&gt; and knows to forward it from its own port &lt;code&gt;192.168.1.50:80&lt;/code&gt; to the Jellyfin port, &lt;code&gt;192.168.1.50:8096&lt;/code&gt;. From there, a connection is made and your browser is sent the Jellyfin homepage form your home server. Neat, right? Additional proxy hosts can be added so that each different subdomain sends traffic to additional services.&lt;/p&gt;
+&lt;p&gt;The level I settled on is just above this. Externally accessible services. The setup is similar to the last one. A DNS server and reverse proxy push traffic to the various services, but in addition to that, you buy the domain you&amp;rsquo;re going to use and ensure ports 80/443 are forwarded from your router to the home server so that the reverse proxy can pick up outside traffic. The safest way to do this is to use a tunnel from the external DNS provider (like Cloudflare) and set up SSL on the domains. IN addition, make sure you never forward anything that would be bad to have public unless you also protect it in another way. Everything should be at minimum behind a username and password. There&amp;rsquo;s also other authentication options, like forcing the reverse proxy to ask for a login. I have my services split. Anything that is bad to have public, like the admin console for the NAS itself, is only available on the local network.&lt;/p&gt;
+&lt;h2 id=&#34;layer-3-services&#34;&gt;Layer 3: Services&lt;/h2&gt;
+&lt;p&gt;Here&amp;rsquo;s the fun part. What the server can actually do. My list of services is pretty tame compared to a lot of home-labbers. I&amp;rsquo;d like to expand in a couple directions, but that would require more powerful hardware, so this is where I&amp;rsquo;m at. Here&amp;rsquo;s everything that runs on the server right now.&lt;/p&gt;
+&lt;h3 id=&#34;samba-shares&#34;&gt;Samba Shares&lt;/h3&gt;
+&lt;p&gt;Samba is the sharing protocol primarily used by Windows devices. It&amp;rsquo;s also fairly easy to set up on Linux, thanks to how common it is. My server hosts a few Samba shares, though a couple are now redundant as you will see. First is the Cloud-Data share. This directory is a general-purpose file server. The folder has subfolders for myself and my wife to put documents, notes, and any other stuff we want backed up. Next is the Copypartycfg share. This exposes the config directory for another service on the server, Copy Party. This is explicitly to allow me to configure copyparty easily, since it doesn&amp;rsquo;t have a native TrueNAS app and simply runs as a docker container. Finally, the third share is Media, a folder to store books, music, movies, and TV shows. Being able to add things easily to media libraries as I buy them is important to me, so having a share directly to that folder was very helpful. Finally, there&amp;rsquo;s a fourth share for PC backups. It simply exists as a network endpoint for backing up the desktop PC in the house.&lt;/p&gt;
+&lt;h3 id=&#34;nas-backup-service&#34;&gt;NAS Backup Service&lt;/h3&gt;
+&lt;p&gt;I use Storj for backup. It has similar uptime to other S3 storage providers like Backblaze or Amazon Web Services, but is significantly cheaper for my specific use case. I&amp;rsquo;m not currently backing up my largest files, being TV and movies, since it is easy to re-download those, but I may add them in the future. The server backs itself up automatically once a month currently, but I may increase the frequency depending on how it goes and how much they charge for the higher frequency. They charge a little more for pulling data out, but I think it&amp;rsquo;s worth it.&lt;/p&gt;
+&lt;h3 id=&#34;pc-backup-service&#34;&gt;PC backup service&lt;/h3&gt;
+&lt;p&gt;While it doesn&amp;rsquo;t technically run on the server, the server receives the backup files generated by Vorta, which is a GUI frontend for Borg backup. Vorta runs once a day, backing up all of the important things from my desktop- to the samba share endpoint. It also handles the pruning of old backups and backs up as a delta, basically only backing up the changes since the last backup unless the last full backup is out of date.&lt;/p&gt;
+&lt;h3 id=&#34;network-services&#34;&gt;Network Services&lt;/h3&gt;
+&lt;p&gt;These are the basic bones that make everything else work. Cloudflared maintains the Cloudflare Tunnel to my external services, and then I have a reverse proxy to allow external traffic.&lt;/p&gt;
+&lt;h3 id=&#34;plex&#34;&gt;Plex&lt;/h3&gt;
+&lt;p&gt;Plex is likely leaving my setup soon because I hate nearly every change they make to the web or smart TV applications. Plex is a media server, hosting on-demand access to movies, TV shows, and music that are hosted on the server. Plex is free, with an optional subscription or one-time payment for a lifetime license to the paid features. I don&amp;rsquo;t really use the paid features, but I have used and liked the software for more than ten years, so I think it&amp;rsquo;s fair to pay for the license.&lt;/p&gt;
+&lt;h3 id=&#34;jellyfin&#34;&gt;Jellyfin&lt;/h3&gt;
+&lt;p&gt;Jellyfin is the free and open source cousin of Plex. It does largely the same job, but isn&amp;rsquo;t quite as polished thanks to its noncommercial nature. I believe it is starting to get mature enough, though, to take over Plex&amp;rsquo;s job. It warrants some more testing before I commit.&lt;/p&gt;
+&lt;h3 id=&#34;calibre-web-automated&#34;&gt;Calibre Web Automated&lt;/h3&gt;
+&lt;p&gt;Calibre is a piece of free ebook library management software, but it was built for a time when folks would just run it on their computer and hook up their e-reader via USB. Calibre Web is a wrapper around Calibre that allows the default interface to be available via a website. Calibre Web Automated is a significantly improved version with a web-first approach. It can be added as an online library to most e-readers, allowing you to host books on the server and download them as-needed to your devide. It makes having a huge library or a device with very little storage much easier to enjoy.&lt;/p&gt;
+&lt;h3 id=&#34;immich&#34;&gt;Immich&lt;/h3&gt;
+&lt;p&gt;This is the best Google Photos replacement I&amp;rsquo;ve ever seen. It handles automatic photo backup from our phones, can generate share links, handles albums and parterner sharing, can import photos from raw files, google photos, or icloud, surfaces all the same metadata Google photos does, replicates Google Photos&amp;rsquo; motion image features, and will even run facial recognition on the photos so you can make automatic albums for certain people. All for free with no nags or anything.&lt;/p&gt;
+&lt;h3 id=&#34;copyparty&#34;&gt;Copyparty&lt;/h3&gt;
+&lt;p&gt;I was on Nextcloud for a time, but Copyparty does a significantly better job. This file server works as my cloud storage. I have it hosting the Cloud-Data and Media directories and have mounted the server as a WebDAV share in my desktop PC and my phone. Because it hosts WebDAV I can also use it as an endpoint for a community web sync plugin for Obsidian (Remotely Save) which gives me a good replacement for Google Keep and other note-taking apps. It even can host a drop folder so that people can send me files for other projects.&lt;/p&gt;
+&lt;h3 id=&#34;vpn&#34;&gt;VPN&lt;/h3&gt;
+&lt;p&gt;Finally, a VPN. This lets me get into the network from outside if I need to while also being secure. I don&amp;rsquo;t need it for all the services, but if I need to configure the OS or something, it needs to be there. I use one of the various dynamic VPN services that handles the registration and handshaking of a WireGuard installation without me needing to update everything every time the iP of my home changes.&lt;/p&gt;
+&lt;h2 id=&#34;to-be-continued&#34;&gt;To be Continued?&lt;/h2&gt;
+&lt;p&gt;There you have it. The current setup of my home server. If anything major changes, I might come back and write an updated article. For now, as I said, I&amp;rsquo;m happy with the state of things.&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>Weeknotes #16</title>
+      <link>/posts/2025-10-30-weeknotes16/</link>
+      <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2025-10-30-weeknotes16/</guid>
+      
+      <description>&lt;h2 id=&#34;weeknotes-returns&#34;&gt;Weeknotes Returns!&lt;/h2&gt;
+&lt;p&gt;It has been a long few months, but I am happy to say my Weeknotes are back! It has been quite the journey since last I wrote, but here&amp;rsquo;s the short version. As mentioned in &lt;a href=&#34;/posts/2025-05-16-newsite/&#34;&gt;the How Taming Knots Works&lt;/a&gt; post, Taming Knots is a folder of markdown files that &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; converts into pretty, static HTML for me. Previously, this was all happening through GitHub Actions and deployed to GitHub Pages. I want to eventually move off of GitHub as much as I possibly can, so I have tried a few different things. I tried moving to &lt;a href=&#34;https://docs.codeberg.org/codeberg-pages/&#34;&gt;Codeberg Pages&lt;/a&gt;, I tried to move to &lt;a href=&#34;https://about.gitea.com/&#34;&gt;Gitea&lt;/a&gt; and use their Actions pipeline to deploy to &lt;a href=&#34;https://pages.cloudflare.com/&#34;&gt;Cloudflare Pages&lt;/a&gt;. I even looked at GitLab for a bit. Eventually though, I decided the juice wasn&amp;rsquo;t worth the squeeze right at this second and that the tinkering was getting in the way of the writing, so I settled everything back down into a setup where I feel like I can move away easily if I need to, but also I can continue to write while I do more research on a better option long term. Taming Knots is still a bunch of markdown files that get uploaded to a Github Repo, but now instead of building and hosting through GitHub, I have Cloudflare Pages watching for changes to the repo and building and deploying the site when it detects a commit. Being on Cloudflare means that I can easily pull the Github piece out and replace it with GitLab if I so choose or I can use any other &amp;ldquo;Actions&amp;rdquo; style worker to run Cloudflare&amp;rsquo;s Wrangler tool to package up and deploy the website from many other code ops platform, including Gitea which may make a comeback eventually. All that to say I basically made a big loop, but now I feel more ready to go on the second journey eventually.&lt;/p&gt;
+&lt;h2 id=&#34;moving&#34;&gt;Moving!&lt;/h2&gt;
+&lt;p&gt;Another reason my weeknotes have lapsed is that I&amp;rsquo;m moving! We are selling the house out in the boonies and moving to a much more affordable place for the next year or two. As you can imagine, packing up the entire house and getting it ready for sale is taking up a lot of my time. Thankfully, this stress will be significantly lessened soon, so my weeknotes and other writing can resume.&lt;/p&gt;
+&lt;h2 id=&#34;projects&#34;&gt;Projects&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;ve finally gotten my home server into a spot I&amp;rsquo;m really happy with. I hope it&amp;rsquo;s easy for me to quickly set back up post-move. I&amp;rsquo;ve set everything up to be fairly portable. You can read more about it &lt;a href=&#34;/posts/2025-10-30-the-home-server/&#34;&gt;In my Home Server post&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;playing&#34;&gt;Playing&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Alan Wake II - I&amp;rsquo;ve been really enjoying this one. I love the wide variety in tones that are clearly separated by the characters. Having one character working with a more unsteady and often silly tone while the other does very serious, intense investigation is a fantastic combination.&lt;/li&gt;
+&lt;li&gt;Easy Delivery Co. - When I don&amp;rsquo;t have the brain power for Alan Wake, I&amp;rsquo;ve been playing this fun winter delivery game. It&amp;rsquo;s got fun physics and definitely fits into the &amp;ldquo;drive a shitty car&amp;rdquo; genre of vehicle games that I enjoy so very much.&lt;/li&gt;
+&lt;li&gt;Ridge Racer 2 - A game for when I truly do not want to have to use brain at all. Cars go fast. Do cool drifts. My PSP is so pretty.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;reading&#34;&gt;Reading&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Still working my way through &lt;em&gt;House of Leaves&lt;/em&gt; by Mark Z Danielewski. I&amp;rsquo;d estimate I&amp;rsquo;m about a third of the way through it. It&amp;rsquo;s tough to tell becuase there&amp;rsquo;s a lot of flipping back and forth.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;watching&#34;&gt;Watching&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Twin Peaks - Emily and I have finished the first two seasons and the movie. We talked about it &lt;a href=&#34;https://twcr-radio.online/episodes/sexual-maturity-combined-with-superhuman-strength-makes-mike-a-sub&#34;&gt;On the podcast&lt;/a&gt; for a few hours. I&amp;rsquo;m excited to get back to it and watch The Return.&lt;/li&gt;
+&lt;li&gt;City the Animation - Still plucking away at this. It&amp;rsquo;s extremely good, I just haven&amp;rsquo;t gotten to it as often as I&amp;rsquo;d like.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      
+    </item>
+    
     <item>
       <title>Weeknotes #15</title>
       <link>/posts/2025-08-23-weeknotes15/</link>
