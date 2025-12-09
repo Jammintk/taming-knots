@@ -1,10 +1,10 @@
 +++
-date = "2025-11-26"
-draft = true
+date = "2025-12-08"
+draft = false
 title = "Desert Island Questions"
 +++
 
-*This post was originally written for Joel's collaboration post. You can read all of the other entries there.*
+*This post was originally written for Joel's collaboration post. You can read all of the other entries [there once it's live](https://joelchrono.xyz/blog/).*
 
 The ever-classic "What would you bring to a desert island?" question is one I have never had an easy time answering. I am pragmatic to a fault and so if I am ever faced with this question, my mind immediately jumps to all of the surrounding questions about the practicality of such an endeavor. A "desert" island implies a small enough island as to never receive a meaningful amount of fresh water, with no trees or other natural resources to sustain oneself, yet there must be a structure of some kind, even if it is simply a television plugged into the sand in order for the thought experiment to work. My concern, then, is less about the video game itself, and more about what video game would offer the most benefit practically to me in that situation. Entertainment is important, of course, but survival is paramount. The question becomes "What game can offer me the best chance of survival?"
 
