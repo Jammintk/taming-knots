@@ -6,7 +6,43 @@
     <description>Recent content on Taming Knots</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Weeknotes #19</title>
+      <link>/posts/2025-12-08-weeknotes19/</link>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2025-12-08-weeknotes19/</guid>
+      
+      <description>&lt;h2 id=&#34;tinkering&#34;&gt;Tinkering&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;I set up Bazarr (and necessarily Radarr and Sonarr) this week to download subtitles for my library automatically because the plugin for Jellyfin isn&amp;rsquo;t very good for it. The uptake was pretty good, but I&amp;rsquo;m not sure how many of the subs are accurate. Hopefully my continued testing will show that they are good enough for me to ditch Plex entirely.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;playing&#34;&gt;Playing&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Yakuza Kiwami: I tied a bow on this remake of the first Yakuza game. Overall, I really enjoyed myself with it. I did feel like it felt a lot more like a PS2 game than Yakuza 0 did. It&amp;rsquo;s not surprising, but it was an interesting feeling to have. I felt myself drawn to the side stories significantly more strongly in this game than games previous. I think that might be because I wasn&amp;rsquo;t quite getting the story I loved in Yakuza 0 and Yakuza Like a Dragon from the main path. I&amp;rsquo;m sure I will get more of that as time goes on, though.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Starship: This is the port of StarFox 64 from Harbour Masters 64, the Ship of Harkanian developers, using their Libultraship framework. I played it on my PC and it was flawless. I did a nice run though the hard path and enjoyed it a lot. I&amp;rsquo;m excited to see how the modding scene around it develops.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Spaghetti Kart: The port of Mario Kart 64 also based on the work done by Harbour Masters 64. THis one is a lot earlier and more barebones, with very little mod support or enhancement beyond a higher resolution. Playing through one cup has me re-affirming that I don&amp;rsquo;t actually like MK64 all that much. I don&amp;rsquo;t love the driving model and feel like they improved the game feel immensely between MK64 and the next one I played, Mario Kart DS.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2 Ship 2 Harkanian: The Majora&amp;rsquo;s Mask port &lt;em&gt;also&lt;/em&gt; also developed by Harbour Masters 64. This time I played a randomizer. Majora&amp;rsquo;s Mask especially feels extremely good as a randomizer game. There&amp;rsquo;s more zones locked behind more specific checks, but there&amp;rsquo;s so many sidequests and minigames that it doesn&amp;rsquo;t feel quite so linear. I&amp;rsquo;m very excited for more of the randomizer options to come to MM that have been so good in the Harbor Masters 64 port of Ocarina of Time. Hopefully we eventually also see multi-game/combined rando, which would be &lt;em&gt;amazing&lt;/em&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;watching&#34;&gt;Watching&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Twin Peaks: My wife and I finally finished the series. We enjoyed it a lot, but I wasn&amp;rsquo;t super enamored with the ending. I don&amp;rsquo;t think I need to read the extra stuff around the series, and I don&amp;rsquo;t love the scale shift between the original series and the Return, but I did still enjoy myself. It&amp;rsquo;s a shame that it left me with more questions than answers and not enough context to develop my own theories to a point of satisfaction.&lt;/li&gt;
+&lt;li&gt;The Fantastic Four: First Steps: The latest in Disney-Marvel&amp;rsquo;s output headed towards the next Avengers movie. I&amp;rsquo;m currently very lost/behind on the multiverse of it all, so it&amp;rsquo;s nice to have a movie set in an alternate universe that doesn&amp;rsquo;t rely on the entire weight of the rest of the movies. I&amp;rsquo;m not really excited for an eventual return to the Avengers, but I do find most of these movies fun as popcorn brain-off entertainment. It did somehow make me interested in going back to watch Thunderbolts and the latest Captain America, but I probably won&amp;rsquo;t dig into that hole.&lt;/li&gt;
+&lt;li&gt;Mobile Suit Gundam Wing: I&amp;rsquo;m 16 episodes into the series now and really enjoying it. I can&amp;rsquo;t believe I&amp;rsquo;d never actually watched it before. There&amp;rsquo;s a lot to love about the characters and the series. I think I&amp;rsquo;ll reserve further thoughts until later, since there&amp;rsquo;s still a long way to go. So far, though, I&amp;rsquo;m stoked to see where it goes, knowing what I already do about the series.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      
+    </item>
+    
     <item>
       <title>Weeknotes #18</title>
       <link>/posts/2025-11-15-weeknotes18-copy/</link>
