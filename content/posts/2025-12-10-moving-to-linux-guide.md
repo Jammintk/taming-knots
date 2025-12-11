@@ -1,7 +1,7 @@
 +++
 date = "2025-12-10"
 draft = false
-title = "Ditching Windows, SteamOS, and Linux"
+title = "Ditching Windows: SteamOS, Bazzite, and Linux"
 +++
 
 As Windows 11 updates have continued to have increasingly damaging bugs, I have started to see more and more people interested in taking the plunge into Linux and having a fair amount of confusion about what they need. On the one hand, I love to yap and will happily repeat my takes as often as needed as a Linux supporter and enabler, but on the other, it would be nice to have a central place to put those thoughts in case I can't type it all out right away. Then, if someone has questions after, I'd be happy to answer them. So, without further ado, let's get into it.
