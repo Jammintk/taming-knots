@@ -3,11 +3,11 @@
 <meta http-equiv="content-type" content="text/html">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title itemprop="name">Ditching Windows, SteamOS, and Linux | Taming Knots</title>
-<meta property="og:title" content="Ditching Windows, SteamOS, and Linux | Taming Knots" />
-<meta name="twitter:title" content="Ditching Windows, SteamOS, and Linux | Taming Knots" />
-<meta itemprop="name" content="Ditching Windows, SteamOS, and Linux | Taming Knots" />
-<meta name="application-name" content="Ditching Windows, SteamOS, and Linux | Taming Knots" />
+<title itemprop="name">Ditching Windows: SteamOS, Bazzite, and Linux | Taming Knots</title>
+<meta property="og:title" content="Ditching Windows: SteamOS, Bazzite, and Linux | Taming Knots" />
+<meta name="twitter:title" content="Ditching Windows: SteamOS, Bazzite, and Linux | Taming Knots" />
+<meta itemprop="name" content="Ditching Windows: SteamOS, Bazzite, and Linux | Taming Knots" />
+<meta name="application-name" content="Ditching Windows: SteamOS, Bazzite, and Linux | Taming Knots" />
 <meta property="og:site_name" content="Taming Knots" />
 
 <meta name="description" content="A blog about technology, video games and many other good and interesting things.">
@@ -46,14 +46,14 @@
     {
         "@context": "http://schema.org",
         "@type": "Article",
-        "headline": "Ditching Windows, SteamOS, and Linux",
+        "headline": "Ditching Windows: SteamOS, Bazzite, and Linux",
         "author": {
         "@type": "Person",
         "name": ""
         },
         "datePublished": "2025-12-10",
         "description": "",
-        "wordCount":  1594 ,
+        "wordCount":  2100 ,
         "mainEntityOfPage": "True",
         "dateModified": "2025-12-10",
         "image": {
@@ -73,7 +73,7 @@
     
     <meta property="og:url" content="/posts/2025-12-10-moving-to-linux-guide/">
   <meta property="og:site_name" content="Taming Knots">
-  <meta property="og:title" content="Ditching Windows, SteamOS, and Linux">
+  <meta property="og:title" content="Ditching Windows: SteamOS, Bazzite, and Linux">
   <meta property="og:description" content="As Windows 11 updates have continued to have increasingly damaging bugs, I have started to see more and more people interested in taking the plunge into Linux and having a fair amount of confusion about what they need. On the one hand, I love to yap and will happily repeat my takes as often as needed as a Linux supporter and enabler, but on the other, it would be nice to have a central place to put those thoughts in case I can’t type it all out right away. Then, if someone has questions after, I’d be happy to answer them. So, without further ado, let’s get into it.">
   <meta property="og:locale" content="en_us">
   <meta property="og:type" content="article">
@@ -85,7 +85,7 @@
     
     
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Ditching Windows, SteamOS, and Linux">
+  <meta name="twitter:title" content="Ditching Windows: SteamOS, Bazzite, and Linux">
   <meta name="twitter:description" content="As Windows 11 updates have continued to have increasingly damaging bugs, I have started to see more and more people interested in taking the plunge into Linux and having a fair amount of confusion about what they need. On the one hand, I love to yap and will happily repeat my takes as often as needed as a Linux supporter and enabler, but on the other, it would be nice to have a central place to put those thoughts in case I can’t type it all out right away. Then, if someone has questions after, I’d be happy to answer them. So, without further ado, let’s get into it.">
 
 
@@ -206,7 +206,7 @@ stroke-linejoin="round" class="feather feather-home">
     <main class="page-content" aria-label="Content">
         <article>
             <header class="header">
-                <h1 class="header-title">Ditching Windows, SteamOS, and Linux</h1>
+                <h1 class="header-title">Ditching Windows: SteamOS, Bazzite, and Linux</h1>
                 
                 
                 
@@ -241,6 +241,13 @@ stroke-linejoin="round" class="feather feather-home">
 <p>Yes, actually. There are a couple of red flags in a distribution to me. The biggest is how much control the team exerts over including packages in the default repositories for the distribution. If the team insists on testing packages when their distribution is based on another one, then that means things are more likely to get out of date because the bigger upstream distribution has the larger community of contributors and testers to make that work. A downstream distro won&rsquo;t. The other red flag is more conditional. If the team exerts a lot of control and is also small, that&rsquo;s a big no from me. Smaller teams tend to be more opinionated, so if they also exert a lot of control over the packages, you can be sure that things will be out of date and your system is more prone to breakage.</p>
 <h3 id="so-what-do-you-use">So what do you use?</h3>
 <p>None of the above, actually. I use <strong>Endeavour OS</strong>. While it is <em>technically</em> its own distribution, it would be more accurate to say that it is Arch Linux with an install script to make getting up and running with a functional system significantly faster and easier. I get package updates pretty quickly and haven&rsquo;t had anything seriously break in an unfixable way yet. Endeavour is <em>NOT</em> for everyone though. They do not offer or support Package manager front-ends. The idea is that users of the OS should be comfortable in the terminal and to keep their system up to date, they need to be updating through the terminal. You can install a GUI package manager frontend if you like, but don&rsquo;t expect support.</p>
+<h1 id="some-notes-on-hardware">Some Notes on Hardware:</h1>
+<h3 id="ive-heard-nvidia-gpus-suck-on-linux-is-my-existing-gaming-pc-cooked">I&rsquo;ve heard nVidia GPUs suck on Linux. Is my existing gaming PC cooked?</h3>
+<p>Not at all. Linus Torvalds (the guy who primarily developed the Linux kernel and still maintains it) has a bone to pick with nVidia specifically because they refused to make open source drivers for their hardware. AMD and Intel do, so the Linux community writ large has an easier time contributing to and supporting hardware from those companies. nVidia, however, insists on not providing completely open source drivers. There was some movement on this a few years ago when nVidia open sourced their kernel module. However, much of the driver remains closed source and stored in firmware, so it&rsquo;s of little use. This means that support for nVidia hardware <em>is</em> worse, but the closed source drivers are still available and generally reliable. You won&rsquo;t get <em>quite</em> as good of performance as you might on Windows, but it isn&rsquo;t like your system will be completely unusable. <strong>I would still recommend moving to Intel or AMD for your next upgrade though</strong>.</p>
+<h3 id="im-looking-into-a-pre-built-pc-whats-hardware-support-like">I&rsquo;m looking into a pre-built PC. What&rsquo;s hardware support like?</h3>
+<p>Great question! This one has three answers. The first is that building the PC yourself is almost always going to yield the best results. Linux maintainers and developers like to build their own systems, so the support generally is better. Stick to mainstream off the shelf parts and you will be fine. There&rsquo;s plenty of great build guides on pcpartpicker or various YouTube channels. It can be intimidating at first, but it is very rewarding and often less expensive to do it yourself.</p>
+<p>If you are looking at a <strong>System Builder</strong> like Maingear, Microcenter, iBuyPower, etc, then hardware support is going to be basically the same as if you had bought individual components and built the PC yourself (ie: very good.) That&rsquo;s because that&rsquo;s exactly what these companies do.</p>
+<p>If you are buying something from a <strong>System Integrator</strong> like HP, Dell, Beelink, and the like, hardware support is usually fine, though you might run into some hiccups. These companies design and construct their own motherboards and sometimes other components specifically to fit the form factors they aim for. Sometimes they also get semi-custom CPU or GPUs because they make deals with AMD, Intel, or nVidia to get exactly what they need to hit their price and performance targets within their size, power, and cooling restrictions. This bespoke hardware is less well documented and the manufacturers have no vested interest in supporting Linux at all, so they often don&rsquo;t provide Linux drivers or software which means the Linux community tends not to support them back. The only exceptions to this are <strong>System 76</strong> and <strong>Framework</strong>. Both companies directly support the Open Source community, even if one of them (<em>cough</em> Framework) might also support racist assholes in the community. Generally, it is best to do a lot of research on the exact thing you want to buy and whether or not folks have been successful in running Linux on it before purchasing.</p>
 <h1 id="questions">Questions?</h1>
 <p>Feel free to shoot me a message via <a href="https://tk-web.top/pages/contact/">the Contact form</a> and I will expand this guide with answers (and reply directly, of course.)</p>
 

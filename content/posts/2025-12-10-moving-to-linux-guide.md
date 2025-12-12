@@ -52,8 +52,20 @@ Yes, actually. There are a couple of red flags in a distribution to me. The bigg
 
 None of the above, actually. I use **Endeavour OS**. While it is *technically* its own distribution, it would be more accurate to say that it is Arch Linux with an install script to make getting up and running with a functional system significantly faster and easier. I get package updates pretty quickly and haven't had anything seriously break in an unfixable way yet. Endeavour is *NOT* for everyone though. They do not offer or support Package manager front-ends. The idea is that users of the OS should be comfortable in the terminal and to keep their system up to date, they need to be updating through the terminal. You can install a GUI package manager frontend if you like, but don't expect support.
 
+# Some Notes on Hardware:
+
+### I've heard nVidia GPUs suck on Linux. Is my existing gaming PC cooked?
+
+Not at all. Linus Torvalds (the guy who primarily developed the Linux kernel and still maintains it) has a bone to pick with nVidia specifically because they refused to make open source drivers for their hardware. AMD and Intel do, so the Linux community writ large has an easier time contributing to and supporting hardware from those companies. nVidia, however, insists on not providing completely open source drivers. There was some movement on this a few years ago when nVidia open sourced their kernel module. However, much of the driver remains closed source and stored in firmware, so it's of little use. This means that support for nVidia hardware *is* worse, but the closed source drivers are still available and generally reliable. You won't get *quite* as good of performance as you might on Windows, but it isn't like your system will be completely unusable. **I would still recommend moving to Intel or AMD for your next upgrade though**.
+
+### I'm looking into a pre-built PC. What's hardware support like?
+
+Great question! This one has three answers. The first is that building the PC yourself is almost always going to yield the best results. Linux maintainers and developers like to build their own systems, so the support generally is better. Stick to mainstream off the shelf parts and you will be fine. There's plenty of great build guides on pcpartpicker or various YouTube channels. It can be intimidating at first, but it is very rewarding and often less expensive to do it yourself.
+
+If you are looking at a **System Builder** like Maingear, Microcenter, iBuyPower, etc, then hardware support is going to be basically the same as if you had bought individual components and built the PC yourself (ie: very good.) That's because that's exactly what these companies do.
+
+If you are buying something from a **System Integrator** like HP, Dell, Beelink, and the like, hardware support is usually fine, though you might run into some hiccups. These companies design and construct their own motherboards and sometimes other components specifically to fit the form factors they aim for. Sometimes they also get semi-custom CPU or GPUs because they make deals with AMD, Intel, or nVidia to get exactly what they need to hit their price and performance targets within their size, power, and cooling restrictions. This bespoke hardware is less well documented and the manufacturers have no vested interest in supporting Linux at all, so they often don't provide Linux drivers or software which means the Linux community tends not to support them back. The only exceptions to this are **System 76** and **Framework**. Both companies directly support the Open Source community, even if one of them (*cough* Framework) might also support racist assholes in the community. Generally, it is best to do a lot of research on the exact thing you want to buy and whether or not folks have been successful in running Linux on it before purchasing.
+
 # Questions?
 
 Feel free to shoot me a message via [the Contact form](https://tk-web.top/pages/contact/) and I will expand this guide with answers (and reply directly, of course.)
-
-
