@@ -1,7 +1,7 @@
 +++
 date = "2025-12-23"
 draft = false
-title = "Wake Up Dead Man: "
+title = "Wake Up Dead Man: Smarmy Title Goes Here - A Review"
 +++
 
 I have never been much of a movie buff. I don't tend to read reviews or go see new films often. My medium of choice is definiely video games, but every once in awhile, I end up watching a movie with my wife or something comes along that I am truly interested in. Of all movie genres, detective mysteries and heists are my favorites. I find the two to have interesting parallels and enjoy the tension between what is shown to the viewer obviously, what is shown subtly, and what is hidden altogether. It is in this aspect that I particularly love *Wake Up Dead Man*, the third movie in Rian Johnson's *Knives Out* series.
